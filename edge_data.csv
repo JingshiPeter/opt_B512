@@ -1,0 +1,2163 @@
+,node1,node2,travel_time_seconds
+0,407 Radam Ln,5701 W Slaughter Ln,703
+1,407 Radam Ln,1120 S Lamar Blvd,557
+2,407 Radam Ln,2700 W Anderson Ln,1144
+3,407 Radam Ln,6507 Burnet Road,1049
+4,407 Radam Ln,3003 S Lamar Blvd,419
+5,407 Radam Ln,96 Rainey Street,609
+6,407 Radam Ln,321 W Ben White Blvd,162
+7,407 Radam Ln,9070 Research Blvd,1082
+8,407 Radam Ln,10817 Ranch Rd 2222,1595
+9,407 Radam Ln,317 E 6th St,654
+10,407 Radam Ln,1900 S 1st St,363
+11,407 Radam Ln,11680 Research Blvd,1243
+12,407 Radam Ln,909 W Mary St,446
+13,407 Radam Ln,201 Brazos St,727
+14,407 Radam Ln,4477 S Lamar Blvd,438
+15,407 Radam Ln,609 Davis St,666
+16,407 Radam Ln,5204 Ranch Rd 2222,1189
+17,407 Radam Ln,3116 S Congress,240
+18,407 Radam Ln,8300 N FM 620,1870
+19,407 Radam Ln,1109 South Lamar Blvd,557
+20,407 Radam Ln,1400 South Congress Avenue,489
+21,407 Radam Ln,2438 W Anderson Ln,1158
+22,407 Radam Ln,69 Rainey Street,546
+23,407 Radam Ln,401 W 2nd St,681
+24,407 Radam Ln,5425 Burnet Rd,1044
+25,407 Radam Ln,520 W 6th St,766
+26,407 Radam Ln,6301 Parmer Ln,1657
+27,407 Radam Ln,2421 Webberville Rd,763
+28,407 Radam Ln,13301 US Highway 183,1398
+29,407 Radam Ln,507 Calles St,833
+30,407 Radam Ln,1509 S Lamar Blvd,518
+31,407 Radam Ln,3601 South Congress Avenue,191
+32,407 Radam Ln,2900 Duval St,861
+33,407 Radam Ln,3508 S Lamar Blvd,373
+34,407 Radam Ln,12221 Riata Trace Pkwy,1286
+35,407 Radam Ln,704 W St. Johns Ave,1063
+36,407 Radam Ln,9012 Research Blvd,1130
+37,407 Radam Ln,9010 Research Blvd,1097
+38,407 Radam Ln,4960 US Route 290,453
+39,407 Radam Ln,801 Red River St,647
+40,407 Radam Ln,12164 N Mopac Expy,1389
+41,407 Radam Ln,11601 Domain Dr,1255
+42,407 Radam Ln,4024 S Lamar Blvd,389
+43,407 Radam Ln,1000 E 41st St,759
+44,407 Radam Ln,7211 Burnet Rd,1146
+45,407 Radam Ln,900 Austin Highlands Blvd,405
+46,5701 W Slaughter Ln,407 Radam Ln,603
+47,5701 W Slaughter Ln,1120 S Lamar Blvd,809
+48,5701 W Slaughter Ln,2700 W Anderson Ln,1163
+49,5701 W Slaughter Ln,6507 Burnet Road,1068
+50,5701 W Slaughter Ln,3003 S Lamar Blvd,557
+51,5701 W Slaughter Ln,96 Rainey Street,968
+52,5701 W Slaughter Ln,321 W Ben White Blvd,593
+53,5701 W Slaughter Ln,9070 Research Blvd,1101
+54,5701 W Slaughter Ln,10817 Ranch Rd 2222,1717
+55,5701 W Slaughter Ln,317 E 6th St,1063
+56,5701 W Slaughter Ln,1900 S 1st St,793
+57,5701 W Slaughter Ln,11680 Research Blvd,1262
+58,5701 W Slaughter Ln,909 W Mary St,818
+59,5701 W Slaughter Ln,201 Brazos St,888
+60,5701 W Slaughter Ln,4477 S Lamar Blvd,496
+61,5701 W Slaughter Ln,609 Davis St,984
+62,5701 W Slaughter Ln,5204 Ranch Rd 2222,1244
+63,5701 W Slaughter Ln,3116 S Congress,674
+64,5701 W Slaughter Ln,8300 N FM 620,1992
+65,5701 W Slaughter Ln,1109 South Lamar Blvd,810
+66,5701 W Slaughter Ln,1400 South Congress Avenue,923
+67,5701 W Slaughter Ln,2438 W Anderson Ln,1177
+68,5701 W Slaughter Ln,69 Rainey Street,910
+69,5701 W Slaughter Ln,401 W 2nd St,793
+70,5701 W Slaughter Ln,5425 Burnet Rd,1063
+71,5701 W Slaughter Ln,520 W 6th St,924
+72,5701 W Slaughter Ln,6301 Parmer Ln,1676
+73,5701 W Slaughter Ln,2421 Webberville Rd,1127
+74,5701 W Slaughter Ln,13301 US Highway 183,1417
+75,5701 W Slaughter Ln,507 Calles St,1197
+76,5701 W Slaughter Ln,1509 S Lamar Blvd,771
+77,5701 W Slaughter Ln,3601 South Congress Avenue,625
+78,5701 W Slaughter Ln,2900 Duval St,1130
+79,5701 W Slaughter Ln,3508 S Lamar Blvd,511
+80,5701 W Slaughter Ln,12221 Riata Trace Pkwy,1305
+81,5701 W Slaughter Ln,704 W St. Johns Ave,1397
+82,5701 W Slaughter Ln,9012 Research Blvd,1149
+83,5701 W Slaughter Ln,9010 Research Blvd,1116
+84,5701 W Slaughter Ln,4960 US Route 290,544
+85,5701 W Slaughter Ln,801 Red River St,1011
+86,5701 W Slaughter Ln,12164 N Mopac Expy,1408
+87,5701 W Slaughter Ln,11601 Domain Dr,1274
+88,5701 W Slaughter Ln,4024 S Lamar Blvd,518
+89,5701 W Slaughter Ln,1000 E 41st St,1123
+90,5701 W Slaughter Ln,7211 Burnet Rd,1165
+91,5701 W Slaughter Ln,900 Austin Highlands Blvd,716
+92,1120 S Lamar Blvd,407 Radam Ln,579
+93,1120 S Lamar Blvd,5701 W Slaughter Ln,901
+94,1120 S Lamar Blvd,2700 W Anderson Ln,938
+95,1120 S Lamar Blvd,6507 Burnet Road,843
+96,1120 S Lamar Blvd,3003 S Lamar Blvd,274
+97,1120 S Lamar Blvd,96 Rainey Street,526
+98,1120 S Lamar Blvd,321 W Ben White Blvd,562
+99,1120 S Lamar Blvd,9070 Research Blvd,876
+100,1120 S Lamar Blvd,10817 Ranch Rd 2222,1492
+101,1120 S Lamar Blvd,317 E 6th St,573
+102,1120 S Lamar Blvd,1900 S 1st St,240
+103,1120 S Lamar Blvd,11680 Research Blvd,1037
+104,1120 S Lamar Blvd,909 W Mary St,143
+105,1120 S Lamar Blvd,201 Brazos St,446
+106,1120 S Lamar Blvd,4477 S Lamar Blvd,585
+107,1120 S Lamar Blvd,609 Davis St,542
+108,1120 S Lamar Blvd,5204 Ranch Rd 2222,1019
+109,1120 S Lamar Blvd,3116 S Congress,451
+110,1120 S Lamar Blvd,8300 N FM 620,1767
+111,1120 S Lamar Blvd,1109 South Lamar Blvd,0
+112,1120 S Lamar Blvd,1400 South Congress Avenue,390
+113,1120 S Lamar Blvd,2438 W Anderson Ln,952
+114,1120 S Lamar Blvd,69 Rainey Street,619
+115,1120 S Lamar Blvd,401 W 2nd St,351
+116,1120 S Lamar Blvd,5425 Burnet Rd,838
+117,1120 S Lamar Blvd,520 W 6th St,407
+118,1120 S Lamar Blvd,6301 Parmer Ln,1451
+119,1120 S Lamar Blvd,2421 Webberville Rd,823
+120,1120 S Lamar Blvd,13301 US Highway 183,1192
+121,1120 S Lamar Blvd,507 Calles St,893
+122,1120 S Lamar Blvd,1509 S Lamar Blvd,35
+123,1120 S Lamar Blvd,3601 South Congress Avenue,497
+124,1120 S Lamar Blvd,2900 Duval St,830
+125,1120 S Lamar Blvd,3508 S Lamar Blvd,317
+126,1120 S Lamar Blvd,12221 Riata Trace Pkwy,1080
+127,1120 S Lamar Blvd,704 W St. Johns Ave,1118
+128,1120 S Lamar Blvd,9012 Research Blvd,924
+129,1120 S Lamar Blvd,9010 Research Blvd,891
+130,1120 S Lamar Blvd,4960 US Route 290,651
+131,1120 S Lamar Blvd,801 Red River St,683
+132,1120 S Lamar Blvd,12164 N Mopac Expy,1183
+133,1120 S Lamar Blvd,11601 Domain Dr,1048
+134,1120 S Lamar Blvd,4024 S Lamar Blvd,424
+135,1120 S Lamar Blvd,1000 E 41st St,814
+136,1120 S Lamar Blvd,7211 Burnet Rd,940
+137,1120 S Lamar Blvd,900 Austin Highlands Blvd,887
+138,2700 W Anderson Ln,407 Radam Ln,1103
+139,2700 W Anderson Ln,5701 W Slaughter Ln,1249
+140,2700 W Anderson Ln,1120 S Lamar Blvd,941
+141,2700 W Anderson Ln,6507 Burnet Road,294
+142,2700 W Anderson Ln,3003 S Lamar Blvd,1108
+143,2700 W Anderson Ln,96 Rainey Street,956
+144,2700 W Anderson Ln,321 W Ben White Blvd,1093
+145,2700 W Anderson Ln,9070 Research Blvd,373
+146,2700 W Anderson Ln,10817 Ranch Rd 2222,1122
+147,2700 W Anderson Ln,317 E 6th St,979
+148,2700 W Anderson Ln,1900 S 1st St,1032
+149,2700 W Anderson Ln,11680 Research Blvd,535
+150,2700 W Anderson Ln,909 W Mary St,1083
+151,2700 W Anderson Ln,201 Brazos St,956
+152,2700 W Anderson Ln,4477 S Lamar Blvd,1025
+153,2700 W Anderson Ln,609 Davis St,1052
+154,2700 W Anderson Ln,5204 Ranch Rd 2222,696
+155,2700 W Anderson Ln,3116 S Congress,1175
+156,2700 W Anderson Ln,8300 N FM 620,1397
+157,2700 W Anderson Ln,1109 South Lamar Blvd,940
+158,2700 W Anderson Ln,1400 South Congress Avenue,1082
+159,2700 W Anderson Ln,2438 W Anderson Ln,164
+160,2700 W Anderson Ln,69 Rainey Street,1013
+161,2700 W Anderson Ln,401 W 2nd St,861
+162,2700 W Anderson Ln,5425 Burnet Rd,419
+163,2700 W Anderson Ln,520 W 6th St,973
+164,2700 W Anderson Ln,6301 Parmer Ln,955
+165,2700 W Anderson Ln,2421 Webberville Rd,1100
+166,2700 W Anderson Ln,13301 US Highway 183,691
+167,2700 W Anderson Ln,507 Calles St,1170
+168,2700 W Anderson Ln,1509 S Lamar Blvd,975
+169,2700 W Anderson Ln,3601 South Congress Avenue,1126
+170,2700 W Anderson Ln,2900 Duval St,937
+171,2700 W Anderson Ln,3508 S Lamar Blvd,1062
+172,2700 W Anderson Ln,12221 Riata Trace Pkwy,579
+173,2700 W Anderson Ln,704 W St. Johns Ave,460
+174,2700 W Anderson Ln,9012 Research Blvd,374
+175,2700 W Anderson Ln,9010 Research Blvd,388
+176,2700 W Anderson Ln,4960 US Route 290,1004
+177,2700 W Anderson Ln,801 Red River St,905
+178,2700 W Anderson Ln,12164 N Mopac Expy,752
+179,2700 W Anderson Ln,11601 Domain Dr,617
+180,2700 W Anderson Ln,4024 S Lamar Blvd,1005
+181,2700 W Anderson Ln,1000 E 41st St,703
+182,2700 W Anderson Ln,7211 Burnet Rd,274
+183,2700 W Anderson Ln,900 Austin Highlands Blvd,1411
+184,6507 Burnet Road,407 Radam Ln,1015
+185,6507 Burnet Road,5701 W Slaughter Ln,1161
+186,6507 Burnet Road,1120 S Lamar Blvd,853
+187,6507 Burnet Road,2700 W Anderson Ln,297
+188,6507 Burnet Road,3003 S Lamar Blvd,1020
+189,6507 Burnet Road,96 Rainey Street,847
+190,6507 Burnet Road,321 W Ben White Blvd,1005
+191,6507 Burnet Road,9070 Research Blvd,426
+192,6507 Burnet Road,10817 Ranch Rd 2222,1007
+193,6507 Burnet Road,317 E 6th St,870
+194,6507 Burnet Road,1900 S 1st St,944
+195,6507 Burnet Road,11680 Research Blvd,663
+196,6507 Burnet Road,909 W Mary St,995
+197,6507 Burnet Road,201 Brazos St,868
+198,6507 Burnet Road,4477 S Lamar Blvd,937
+199,6507 Burnet Road,609 Davis St,911
+200,6507 Burnet Road,5204 Ranch Rd 2222,534
+201,6507 Burnet Road,3116 S Congress,1087
+202,6507 Burnet Road,8300 N FM 620,1282
+203,6507 Burnet Road,1109 South Lamar Blvd,852
+204,6507 Burnet Road,1400 South Congress Avenue,994
+205,6507 Burnet Road,2438 W Anderson Ln,262
+206,6507 Burnet Road,69 Rainey Street,904
+207,6507 Burnet Road,401 W 2nd St,773
+208,6507 Burnet Road,5425 Burnet Rd,125
+209,6507 Burnet Road,520 W 6th St,885
+210,6507 Burnet Road,6301 Parmer Ln,1053
+211,6507 Burnet Road,2421 Webberville Rd,991
+212,6507 Burnet Road,13301 US Highway 183,818
+213,6507 Burnet Road,507 Calles St,1061
+214,6507 Burnet Road,1509 S Lamar Blvd,887
+215,6507 Burnet Road,3601 South Congress Avenue,1038
+216,6507 Burnet Road,2900 Duval St,765
+217,6507 Burnet Road,3508 S Lamar Blvd,974
+218,6507 Burnet Road,12221 Riata Trace Pkwy,706
+219,6507 Burnet Road,704 W St. Johns Ave,369
+220,6507 Burnet Road,9012 Research Blvd,367
+221,6507 Burnet Road,9010 Research Blvd,474
+222,6507 Burnet Road,4960 US Route 290,916
+223,6507 Burnet Road,801 Red River St,796
+224,6507 Burnet Road,12164 N Mopac Expy,785
+225,6507 Burnet Road,11601 Domain Dr,651
+226,6507 Burnet Road,4024 S Lamar Blvd,917
+227,6507 Burnet Road,1000 E 41st St,594
+228,6507 Burnet Road,7211 Burnet Rd,97
+229,6507 Burnet Road,900 Austin Highlands Blvd,1323
+230,3003 S Lamar Blvd,407 Radam Ln,461
+231,3003 S Lamar Blvd,5701 W Slaughter Ln,628
+232,3003 S Lamar Blvd,1120 S Lamar Blvd,252
+233,3003 S Lamar Blvd,2700 W Anderson Ln,1061
+234,3003 S Lamar Blvd,6507 Burnet Road,966
+235,3003 S Lamar Blvd,96 Rainey Street,779
+236,3003 S Lamar Blvd,321 W Ben White Blvd,452
+237,3003 S Lamar Blvd,9070 Research Blvd,999
+238,3003 S Lamar Blvd,10817 Ranch Rd 2222,1513
+239,3003 S Lamar Blvd,317 E 6th St,825
+240,3003 S Lamar Blvd,1900 S 1st St,358
+241,3003 S Lamar Blvd,11680 Research Blvd,1160
+242,3003 S Lamar Blvd,909 W Mary St,261
+243,3003 S Lamar Blvd,201 Brazos St,699
+244,3003 S Lamar Blvd,4477 S Lamar Blvd,312
+245,3003 S Lamar Blvd,609 Davis St,795
+246,3003 S Lamar Blvd,5204 Ranch Rd 2222,1107
+247,3003 S Lamar Blvd,3116 S Congress,487
+248,3003 S Lamar Blvd,8300 N FM 620,1788
+249,3003 S Lamar Blvd,1109 South Lamar Blvd,253
+250,3003 S Lamar Blvd,1400 South Congress Avenue,508
+251,3003 S Lamar Blvd,2438 W Anderson Ln,1075
+252,3003 S Lamar Blvd,69 Rainey Street,726
+253,3003 S Lamar Blvd,401 W 2nd St,604
+254,3003 S Lamar Blvd,5425 Burnet Rd,961
+255,3003 S Lamar Blvd,520 W 6th St,659
+256,3003 S Lamar Blvd,6301 Parmer Ln,1574
+257,3003 S Lamar Blvd,2421 Webberville Rd,943
+258,3003 S Lamar Blvd,13301 US Highway 183,1315
+259,3003 S Lamar Blvd,507 Calles St,1013
+260,3003 S Lamar Blvd,1509 S Lamar Blvd,214
+261,3003 S Lamar Blvd,3601 South Congress Avenue,441
+262,3003 S Lamar Blvd,2900 Duval St,1083
+263,3003 S Lamar Blvd,3508 S Lamar Blvd,44
+264,3003 S Lamar Blvd,12221 Riata Trace Pkwy,1203
+265,3003 S Lamar Blvd,704 W St. Johns Ave,1243
+266,3003 S Lamar Blvd,9012 Research Blvd,1047
+267,3003 S Lamar Blvd,9010 Research Blvd,1014
+268,3003 S Lamar Blvd,4960 US Route 290,378
+269,3003 S Lamar Blvd,801 Red River St,935
+270,3003 S Lamar Blvd,12164 N Mopac Expy,1306
+271,3003 S Lamar Blvd,11601 Domain Dr,1172
+272,3003 S Lamar Blvd,4024 S Lamar Blvd,151
+273,3003 S Lamar Blvd,1000 E 41st St,939
+274,3003 S Lamar Blvd,7211 Burnet Rd,1063
+275,3003 S Lamar Blvd,900 Austin Highlands Blvd,690
+276,96 Rainey Street,407 Radam Ln,515
+277,96 Rainey Street,5701 W Slaughter Ln,937
+278,96 Rainey Street,1120 S Lamar Blvd,596
+279,96 Rainey Street,2700 W Anderson Ln,1066
+280,96 Rainey Street,6507 Burnet Road,971
+281,96 Rainey Street,3003 S Lamar Blvd,653
+282,96 Rainey Street,321 W Ben White Blvd,462
+283,96 Rainey Street,9070 Research Blvd,918
+284,96 Rainey Street,10817 Ranch Rd 2222,1620
+285,96 Rainey Street,317 E 6th St,300
+286,96 Rainey Street,1900 S 1st St,533
+287,96 Rainey Street,11680 Research Blvd,1003
+288,96 Rainey Street,909 W Mary St,598
+289,96 Rainey Street,201 Brazos St,218
+290,96 Rainey Street,4477 S Lamar Blvd,672
+291,96 Rainey Street,609 Davis St,99
+292,96 Rainey Street,5204 Ranch Rd 2222,1147
+293,96 Rainey Street,3116 S Congress,457
+294,96 Rainey Street,8300 N FM 620,1895
+295,96 Rainey Street,1109 South Lamar Blvd,595
+296,96 Rainey Street,1400 South Congress Avenue,437
+297,96 Rainey Street,2438 W Anderson Ln,968
+298,96 Rainey Street,69 Rainey Street,93
+299,96 Rainey Street,401 W 2nd St,342
+300,96 Rainey Street,5425 Burnet Rd,966
+301,96 Rainey Street,520 W 6th St,427
+302,96 Rainey Street,6301 Parmer Ln,1423
+303,96 Rainey Street,2421 Webberville Rd,431
+304,96 Rainey Street,13301 US Highway 183,1158
+305,96 Rainey Street,507 Calles St,501
+306,96 Rainey Street,1509 S Lamar Blvd,630
+307,96 Rainey Street,3601 South Congress Avenue,475
+308,96 Rainey Street,2900 Duval St,524
+309,96 Rainey Street,3508 S Lamar Blvd,607
+310,96 Rainey Street,12221 Riata Trace Pkwy,1046
+311,96 Rainey Street,704 W St. Johns Ave,726
+312,96 Rainey Street,9012 Research Blvd,806
+313,96 Rainey Street,9010 Research Blvd,972
+314,96 Rainey Street,4960 US Route 290,687
+315,96 Rainey Street,801 Red River St,331
+316,96 Rainey Street,12164 N Mopac Expy,1163
+317,96 Rainey Street,11601 Domain Dr,1028
+318,96 Rainey Street,4024 S Lamar Blvd,623
+319,96 Rainey Street,1000 E 41st St,422
+320,96 Rainey Street,7211 Burnet Rd,1068
+321,96 Rainey Street,900 Austin Highlands Blvd,738
+322,321 W Ben White Blvd,407 Radam Ln,143
+323,321 W Ben White Blvd,5701 W Slaughter Ln,686
+324,321 W Ben White Blvd,1120 S Lamar Blvd,596
+325,321 W Ben White Blvd,2700 W Anderson Ln,1127
+326,321 W Ben White Blvd,6507 Burnet Road,1032
+327,321 W Ben White Blvd,3003 S Lamar Blvd,402
+328,321 W Ben White Blvd,96 Rainey Street,659
+329,321 W Ben White Blvd,9070 Research Blvd,1065
+330,321 W Ben White Blvd,10817 Ranch Rd 2222,1578
+331,321 W Ben White Blvd,317 E 6th St,704
+332,321 W Ben White Blvd,1900 S 1st St,403
+333,321 W Ben White Blvd,11680 Research Blvd,1226
+334,321 W Ben White Blvd,909 W Mary St,486
+335,321 W Ben White Blvd,201 Brazos St,732
+336,321 W Ben White Blvd,4477 S Lamar Blvd,421
+337,321 W Ben White Blvd,609 Davis St,716
+338,321 W Ben White Blvd,5204 Ranch Rd 2222,1172
+339,321 W Ben White Blvd,3116 S Congress,202
+340,321 W Ben White Blvd,8300 N FM 620,1853
+341,321 W Ben White Blvd,1109 South Lamar Blvd,596
+342,321 W Ben White Blvd,1400 South Congress Avenue,451
+343,321 W Ben White Blvd,2438 W Anderson Ln,1141
+344,321 W Ben White Blvd,69 Rainey Street,596
+345,321 W Ben White Blvd,401 W 2nd St,720
+346,321 W Ben White Blvd,5425 Burnet Rd,1027
+347,321 W Ben White Blvd,520 W 6th St,805
+348,321 W Ben White Blvd,6301 Parmer Ln,1640
+349,321 W Ben White Blvd,2421 Webberville Rd,813
+350,321 W Ben White Blvd,13301 US Highway 183,1381
+351,321 W Ben White Blvd,507 Calles St,883
+352,321 W Ben White Blvd,1509 S Lamar Blvd,557
+353,321 W Ben White Blvd,3601 South Congress Avenue,153
+354,321 W Ben White Blvd,2900 Duval St,911
+355,321 W Ben White Blvd,3508 S Lamar Blvd,356
+356,321 W Ben White Blvd,12221 Riata Trace Pkwy,1269
+357,321 W Ben White Blvd,704 W St. Johns Ave,1113
+358,321 W Ben White Blvd,9012 Research Blvd,1113
+359,321 W Ben White Blvd,9010 Research Blvd,1080
+360,321 W Ben White Blvd,4960 US Route 290,436
+361,321 W Ben White Blvd,801 Red River St,697
+362,321 W Ben White Blvd,12164 N Mopac Expy,1372
+363,321 W Ben White Blvd,11601 Domain Dr,1238
+364,321 W Ben White Blvd,4024 S Lamar Blvd,372
+365,321 W Ben White Blvd,1000 E 41st St,809
+366,321 W Ben White Blvd,7211 Burnet Rd,1129
+367,321 W Ben White Blvd,900 Austin Highlands Blvd,527
+368,9070 Research Blvd,407 Radam Ln,1074
+369,9070 Research Blvd,5701 W Slaughter Ln,1221
+370,9070 Research Blvd,1120 S Lamar Blvd,913
+371,9070 Research Blvd,2700 W Anderson Ln,326
+372,9070 Research Blvd,6507 Burnet Road,386
+373,9070 Research Blvd,3003 S Lamar Blvd,1079
+374,9070 Research Blvd,96 Rainey Street,766
+375,9070 Research Blvd,321 W Ben White Blvd,1064
+376,9070 Research Blvd,10817 Ranch Rd 2222,992
+377,9070 Research Blvd,317 E 6th St,789
+378,9070 Research Blvd,1900 S 1st St,1004
+379,9070 Research Blvd,11680 Research Blvd,315
+380,9070 Research Blvd,909 W Mary St,1055
+381,9070 Research Blvd,201 Brazos St,882
+382,9070 Research Blvd,4477 S Lamar Blvd,996
+383,9070 Research Blvd,609 Davis St,830
+384,9070 Research Blvd,5204 Ranch Rd 2222,668
+385,9070 Research Blvd,3116 S Congress,1072
+386,9070 Research Blvd,8300 N FM 620,1154
+387,9070 Research Blvd,1109 South Lamar Blvd,912
+388,9070 Research Blvd,1400 South Congress Avenue,1054
+389,9070 Research Blvd,2438 W Anderson Ln,276
+390,9070 Research Blvd,69 Rainey Street,823
+391,9070 Research Blvd,401 W 2nd St,833
+392,9070 Research Blvd,5425 Burnet Rd,511
+393,9070 Research Blvd,520 W 6th St,939
+394,9070 Research Blvd,6301 Parmer Ln,731
+395,9070 Research Blvd,2421 Webberville Rd,910
+396,9070 Research Blvd,13301 US Highway 183,470
+397,9070 Research Blvd,507 Calles St,980
+398,9070 Research Blvd,1509 S Lamar Blvd,947
+399,9070 Research Blvd,3601 South Congress Avenue,1090
+400,9070 Research Blvd,2900 Duval St,747
+401,9070 Research Blvd,3508 S Lamar Blvd,1033
+402,9070 Research Blvd,12221 Riata Trace Pkwy,358
+403,9070 Research Blvd,704 W St. Johns Ave,338
+404,9070 Research Blvd,9012 Research Blvd,70
+405,9070 Research Blvd,9010 Research Blvd,38
+406,9070 Research Blvd,4960 US Route 290,976
+407,9070 Research Blvd,801 Red River St,715
+408,9070 Research Blvd,12164 N Mopac Expy,463
+409,9070 Research Blvd,11601 Domain Dr,329
+410,9070 Research Blvd,4024 S Lamar Blvd,976
+411,9070 Research Blvd,1000 E 41st St,513
+412,9070 Research Blvd,7211 Burnet Rd,366
+413,9070 Research Blvd,900 Austin Highlands Blvd,1354
+414,10817 Ranch Rd 2222,407 Radam Ln,1495
+415,10817 Ranch Rd 2222,5701 W Slaughter Ln,1629
+416,10817 Ranch Rd 2222,1120 S Lamar Blvd,1390
+417,10817 Ranch Rd 2222,2700 W Anderson Ln,1143
+418,10817 Ranch Rd 2222,6507 Burnet Road,1018
+419,10817 Ranch Rd 2222,3003 S Lamar Blvd,1500
+420,10817 Ranch Rd 2222,96 Rainey Street,1485
+421,10817 Ranch Rd 2222,321 W Ben White Blvd,1485
+422,10817 Ranch Rd 2222,9070 Research Blvd,916
+423,10817 Ranch Rd 2222,317 E 6th St,1580
+424,10817 Ranch Rd 2222,1900 S 1st St,1481
+425,10817 Ranch Rd 2222,11680 Research Blvd,1022
+426,10817 Ranch Rd 2222,909 W Mary St,1532
+427,10817 Ranch Rd 2222,201 Brazos St,1405
+428,10817 Ranch Rd 2222,4477 S Lamar Blvd,1417
+429,10817 Ranch Rd 2222,609 Davis St,1501
+430,10817 Ranch Rd 2222,5204 Ranch Rd 2222,427
+431,10817 Ranch Rd 2222,3116 S Congress,1567
+432,10817 Ranch Rd 2222,8300 N FM 620,343
+433,10817 Ranch Rd 2222,1109 South Lamar Blvd,1389
+434,10817 Ranch Rd 2222,1400 South Congress Avenue,1531
+435,10817 Ranch Rd 2222,2438 W Anderson Ln,1157
+436,10817 Ranch Rd 2222,69 Rainey Street,1578
+437,10817 Ranch Rd 2222,401 W 2nd St,1310
+438,10817 Ranch Rd 2222,5425 Burnet Rd,1013
+439,10817 Ranch Rd 2222,520 W 6th St,1422
+440,10817 Ranch Rd 2222,6301 Parmer Ln,1241
+441,10817 Ranch Rd 2222,2421 Webberville Rd,1782
+442,10817 Ranch Rd 2222,13301 US Highway 183,1045
+443,10817 Ranch Rd 2222,507 Calles St,1852
+444,10817 Ranch Rd 2222,1509 S Lamar Blvd,1424
+445,10817 Ranch Rd 2222,3601 South Congress Avenue,1518
+446,10817 Ranch Rd 2222,2900 Duval St,1414
+447,10817 Ranch Rd 2222,3508 S Lamar Blvd,1454
+448,10817 Ranch Rd 2222,12221 Riata Trace Pkwy,1065
+449,10817 Ranch Rd 2222,704 W St. Johns Ave,1157
+450,10817 Ranch Rd 2222,9012 Research Blvd,964
+451,10817 Ranch Rd 2222,9010 Research Blvd,931
+452,10817 Ranch Rd 2222,4960 US Route 290,1384
+453,10817 Ranch Rd 2222,801 Red River St,1517
+454,10817 Ranch Rd 2222,12164 N Mopac Expy,1285
+455,10817 Ranch Rd 2222,11601 Domain Dr,1150
+456,10817 Ranch Rd 2222,4024 S Lamar Blvd,1397
+457,10817 Ranch Rd 2222,1000 E 41st St,1332
+458,10817 Ranch Rd 2222,7211 Burnet Rd,1115
+459,10817 Ranch Rd 2222,900 Austin Highlands Blvd,1803
+460,317 E 6th St,407 Radam Ln,720
+461,317 E 6th St,5701 W Slaughter Ln,1068
+462,317 E 6th St,1120 S Lamar Blvd,520
+463,317 E 6th St,2700 W Anderson Ln,1031
+464,317 E 6th St,6507 Burnet Road,936
+465,317 E 6th St,3003 S Lamar Blvd,793
+466,317 E 6th St,96 Rainey Street,302
+467,317 E 6th St,321 W Ben White Blvd,667
+468,317 E 6th St,9070 Research Blvd,969
+469,317 E 6th St,10817 Ranch Rd 2222,1585
+470,317 E 6th St,1900 S 1st St,456
+471,317 E 6th St,11680 Research Blvd,1081
+472,317 E 6th St,909 W Mary St,521
+473,317 E 6th St,201 Brazos St,186
+474,317 E 6th St,4477 S Lamar Blvd,844
+475,317 E 6th St,609 Davis St,318
+476,317 E 6th St,5204 Ranch Rd 2222,1112
+477,317 E 6th St,3116 S Congress,669
+478,317 E 6th St,8300 N FM 620,1860
+479,317 E 6th St,1109 South Lamar Blvd,519
+480,317 E 6th St,1400 South Congress Avenue,402
+481,317 E 6th St,2438 W Anderson Ln,1045
+482,317 E 6th St,69 Rainey Street,374
+483,317 E 6th St,401 W 2nd St,223
+484,317 E 6th St,5425 Burnet Rd,931
+485,317 E 6th St,520 W 6th St,150
+486,317 E 6th St,6301 Parmer Ln,1544
+487,317 E 6th St,2421 Webberville Rd,444
+488,317 E 6th St,13301 US Highway 183,1236
+489,317 E 6th St,507 Calles St,514
+490,317 E 6th St,1509 S Lamar Blvd,554
+491,317 E 6th St,3601 South Congress Avenue,715
+492,317 E 6th St,2900 Duval St,602
+493,317 E 6th St,3508 S Lamar Blvd,837
+494,317 E 6th St,12221 Riata Trace Pkwy,1124
+495,317 E 6th St,704 W St. Johns Ave,804
+496,317 E 6th St,9012 Research Blvd,884
+497,317 E 6th St,9010 Research Blvd,984
+498,317 E 6th St,4960 US Route 290,823
+499,317 E 6th St,801 Red River St,230
+500,317 E 6th St,12164 N Mopac Expy,1276
+501,317 E 6th St,11601 Domain Dr,1141
+502,317 E 6th St,4024 S Lamar Blvd,944
+503,317 E 6th St,1000 E 41st St,500
+504,317 E 6th St,7211 Burnet Rd,1033
+505,317 E 6th St,900 Austin Highlands Blvd,943
+506,1900 S 1st St,407 Radam Ln,390
+507,1900 S 1st St,5701 W Slaughter Ln,873
+508,1900 S 1st St,1120 S Lamar Blvd,230
+509,1900 S 1st St,2700 W Anderson Ln,1042
+510,1900 S 1st St,6507 Burnet Road,947
+511,1900 S 1st St,3003 S Lamar Blvd,403
+512,1900 S 1st St,96 Rainey Street,443
+513,1900 S 1st St,321 W Ben White Blvd,374
+514,1900 S 1st St,9070 Research Blvd,980
+515,1900 S 1st St,10817 Ranch Rd 2222,1596
+516,1900 S 1st St,317 E 6th St,519
+517,1900 S 1st St,11680 Research Blvd,1141
+518,1900 S 1st St,909 W Mary St,83
+519,1900 S 1st St,201 Brazos St,364
+520,1900 S 1st St,4477 S Lamar Blvd,608
+521,1900 S 1st St,609 Davis St,459
+522,1900 S 1st St,5204 Ranch Rd 2222,1123
+523,1900 S 1st St,3116 S Congress,261
+524,1900 S 1st St,8300 N FM 620,1871
+525,1900 S 1st St,1109 South Lamar Blvd,231
+526,1900 S 1st St,1400 South Congress Avenue,162
+527,1900 S 1st St,2438 W Anderson Ln,1056
+528,1900 S 1st St,69 Rainey Street,536
+529,1900 S 1st St,401 W 2nd St,318
+530,1900 S 1st St,5425 Burnet Rd,942
+531,1900 S 1st St,520 W 6th St,403
+532,1900 S 1st St,6301 Parmer Ln,1555
+533,1900 S 1st St,2421 Webberville Rd,740
+534,1900 S 1st St,13301 US Highway 183,1296
+535,1900 S 1st St,507 Calles St,810
+536,1900 S 1st St,1509 S Lamar Blvd,192
+537,1900 S 1st St,3601 South Congress Avenue,307
+538,1900 S 1st St,2900 Duval St,833
+539,1900 S 1st St,3508 S Lamar Blvd,447
+540,1900 S 1st St,12221 Riata Trace Pkwy,1184
+541,1900 S 1st St,704 W St. Johns Ave,1035
+542,1900 S 1st St,9012 Research Blvd,1028
+543,1900 S 1st St,9010 Research Blvd,995
+544,1900 S 1st St,4960 US Route 290,623
+545,1900 S 1st St,801 Red River St,607
+546,1900 S 1st St,12164 N Mopac Expy,1287
+547,1900 S 1st St,11601 Domain Dr,1152
+548,1900 S 1st St,4024 S Lamar Blvd,554
+549,1900 S 1st St,1000 E 41st St,731
+550,1900 S 1st St,7211 Burnet Rd,1044
+551,1900 S 1st St,900 Austin Highlands Blvd,698
+552,11680 Research Blvd,407 Radam Ln,1152
+553,11680 Research Blvd,5701 W Slaughter Ln,1298
+554,11680 Research Blvd,1120 S Lamar Blvd,990
+555,11680 Research Blvd,2700 W Anderson Ln,545
+556,11680 Research Blvd,6507 Burnet Road,605
+557,11680 Research Blvd,3003 S Lamar Blvd,1157
+558,11680 Research Blvd,96 Rainey Street,911
+559,11680 Research Blvd,321 W Ben White Blvd,1142
+560,11680 Research Blvd,9070 Research Blvd,242
+561,11680 Research Blvd,10817 Ranch Rd 2222,900
+562,11680 Research Blvd,317 E 6th St,934
+563,11680 Research Blvd,1900 S 1st St,1081
+564,11680 Research Blvd,909 W Mary St,1132
+565,11680 Research Blvd,201 Brazos St,1005
+566,11680 Research Blvd,4477 S Lamar Blvd,1074
+567,11680 Research Blvd,609 Davis St,975
+568,11680 Research Blvd,5204 Ranch Rd 2222,593
+569,11680 Research Blvd,3116 S Congress,1217
+570,11680 Research Blvd,8300 N FM 620,1089
+571,11680 Research Blvd,1109 South Lamar Blvd,989
+572,11680 Research Blvd,1400 South Congress Avenue,1131
+573,11680 Research Blvd,2438 W Anderson Ln,495
+574,11680 Research Blvd,69 Rainey Street,968
+575,11680 Research Blvd,401 W 2nd St,910
+576,11680 Research Blvd,5425 Burnet Rd,682
+577,11680 Research Blvd,520 W 6th St,1022
+578,11680 Research Blvd,6301 Parmer Ln,643
+579,11680 Research Blvd,2421 Webberville Rd,1055
+580,11680 Research Blvd,13301 US Highway 183,405
+581,11680 Research Blvd,507 Calles St,1125
+582,11680 Research Blvd,1509 S Lamar Blvd,1024
+583,11680 Research Blvd,3601 South Congress Avenue,1175
+584,11680 Research Blvd,2900 Duval St,892
+585,11680 Research Blvd,3508 S Lamar Blvd,1111
+586,11680 Research Blvd,12221 Riata Trace Pkwy,278
+587,11680 Research Blvd,704 W St. Johns Ave,482
+588,11680 Research Blvd,9012 Research Blvd,290
+589,11680 Research Blvd,9010 Research Blvd,257
+590,11680 Research Blvd,4960 US Route 290,1053
+591,11680 Research Blvd,801 Red River St,860
+592,11680 Research Blvd,12164 N Mopac Expy,557
+593,11680 Research Blvd,11601 Domain Dr,423
+594,11680 Research Blvd,4024 S Lamar Blvd,1054
+595,11680 Research Blvd,1000 E 41st St,658
+596,11680 Research Blvd,7211 Burnet Rd,585
+597,11680 Research Blvd,900 Austin Highlands Blvd,1499
+598,909 W Mary St,407 Radam Ln,487
+599,909 W Mary St,5701 W Slaughter Ln,950
+600,909 W Mary St,1120 S Lamar Blvd,147
+601,909 W Mary St,2700 W Anderson Ln,1085
+602,909 W Mary St,6507 Burnet Road,990
+603,909 W Mary St,3003 S Lamar Blvd,322
+604,909 W Mary St,96 Rainey Street,540
+605,909 W Mary St,321 W Ben White Blvd,471
+606,909 W Mary St,9070 Research Blvd,1023
+607,909 W Mary St,10817 Ranch Rd 2222,1639
+608,909 W Mary St,317 E 6th St,616
+609,909 W Mary St,1900 S 1st St,97
+610,909 W Mary St,11680 Research Blvd,1184
+611,909 W Mary St,201 Brazos St,461
+612,909 W Mary St,4477 S Lamar Blvd,634
+613,909 W Mary St,609 Davis St,556
+614,909 W Mary St,5204 Ranch Rd 2222,1166
+615,909 W Mary St,3116 S Congress,353
+616,909 W Mary St,8300 N FM 620,1914
+617,909 W Mary St,1109 South Lamar Blvd,148
+618,909 W Mary St,1400 South Congress Avenue,247
+619,909 W Mary St,2438 W Anderson Ln,1099
+620,909 W Mary St,69 Rainey Street,633
+621,909 W Mary St,401 W 2nd St,415
+622,909 W Mary St,5425 Burnet Rd,985
+623,909 W Mary St,520 W 6th St,500
+624,909 W Mary St,6301 Parmer Ln,1598
+625,909 W Mary St,2421 Webberville Rd,837
+626,909 W Mary St,13301 US Highway 183,1339
+627,909 W Mary St,507 Calles St,907
+628,909 W Mary St,1509 S Lamar Blvd,109
+629,909 W Mary St,3601 South Congress Avenue,399
+630,909 W Mary St,2900 Duval St,978
+631,909 W Mary St,3508 S Lamar Blvd,366
+632,909 W Mary St,12221 Riata Trace Pkwy,1227
+633,909 W Mary St,704 W St. Johns Ave,1132
+634,909 W Mary St,9012 Research Blvd,1071
+635,909 W Mary St,9010 Research Blvd,1038
+636,909 W Mary St,4960 US Route 290,700
+637,909 W Mary St,801 Red River St,704
+638,909 W Mary St,12164 N Mopac Expy,1330
+639,909 W Mary St,11601 Domain Dr,1195
+640,909 W Mary St,4024 S Lamar Blvd,473
+641,909 W Mary St,1000 E 41st St,828
+642,909 W Mary St,7211 Burnet Rd,1087
+643,909 W Mary St,900 Austin Highlands Blvd,795
+644,201 Brazos St,407 Radam Ln,623
+645,201 Brazos St,5701 W Slaughter Ln,973
+646,201 Brazos St,1120 S Lamar Blvd,460
+647,201 Brazos St,2700 W Anderson Ln,929
+648,201 Brazos St,6507 Burnet Road,834
+649,201 Brazos St,3003 S Lamar Blvd,733
+650,201 Brazos St,96 Rainey Street,174
+651,201 Brazos St,321 W Ben White Blvd,570
+652,201 Brazos St,9070 Research Blvd,867
+653,201 Brazos St,10817 Ranch Rd 2222,1483
+654,201 Brazos St,317 E 6th St,215
+655,201 Brazos St,1900 S 1st St,397
+656,201 Brazos St,11680 Research Blvd,1028
+657,201 Brazos St,909 W Mary St,462
+658,201 Brazos St,4477 S Lamar Blvd,749
+659,201 Brazos St,609 Davis St,190
+660,201 Brazos St,5204 Ranch Rd 2222,1010
+661,201 Brazos St,3116 S Congress,568
+662,201 Brazos St,8300 N FM 620,1758
+663,201 Brazos St,1109 South Lamar Blvd,459
+664,201 Brazos St,1400 South Congress Avenue,301
+665,201 Brazos St,2438 W Anderson Ln,943
+666,201 Brazos St,69 Rainey Street,267
+667,201 Brazos St,401 W 2nd St,219
+668,201 Brazos St,5425 Burnet Rd,829
+669,201 Brazos St,520 W 6th St,262
+670,201 Brazos St,6301 Parmer Ln,1442
+671,201 Brazos St,2421 Webberville Rd,471
+672,201 Brazos St,13301 US Highway 183,1183
+673,201 Brazos St,507 Calles St,541
+674,201 Brazos St,1509 S Lamar Blvd,494
+675,201 Brazos St,3601 South Congress Avenue,614
+676,201 Brazos St,2900 Duval St,564
+677,201 Brazos St,3508 S Lamar Blvd,777
+678,201 Brazos St,12221 Riata Trace Pkwy,1071
+679,201 Brazos St,704 W St. Johns Ave,766
+680,201 Brazos St,9012 Research Blvd,846
+681,201 Brazos St,9010 Research Blvd,882
+682,201 Brazos St,4960 US Route 290,728
+683,201 Brazos St,801 Red River St,325
+684,201 Brazos St,12164 N Mopac Expy,1174
+685,201 Brazos St,11601 Domain Dr,1039
+686,201 Brazos St,4024 S Lamar Blvd,731
+687,201 Brazos St,1000 E 41st St,462
+688,201 Brazos St,7211 Burnet Rd,931
+689,201 Brazos St,900 Austin Highlands Blvd,846
+690,4477 S Lamar Blvd,407 Radam Ln,375
+691,4477 S Lamar Blvd,5701 W Slaughter Ln,625
+692,4477 S Lamar Blvd,1120 S Lamar Blvd,614
+693,4477 S Lamar Blvd,2700 W Anderson Ln,1125
+694,4477 S Lamar Blvd,6507 Burnet Road,1030
+695,4477 S Lamar Blvd,3003 S Lamar Blvd,362
+696,4477 S Lamar Blvd,96 Rainey Street,746
+697,4477 S Lamar Blvd,321 W Ben White Blvd,365
+698,4477 S Lamar Blvd,9070 Research Blvd,1063
+699,4477 S Lamar Blvd,10817 Ranch Rd 2222,1577
+700,4477 S Lamar Blvd,317 E 6th St,791
+701,4477 S Lamar Blvd,1900 S 1st St,565
+702,4477 S Lamar Blvd,11680 Research Blvd,1224
+703,4477 S Lamar Blvd,909 W Mary St,623
+704,4477 S Lamar Blvd,201 Brazos St,850
+705,4477 S Lamar Blvd,609 Davis St,803
+706,4477 S Lamar Blvd,5204 Ranch Rd 2222,1171
+707,4477 S Lamar Blvd,3116 S Congress,447
+708,4477 S Lamar Blvd,8300 N FM 620,1852
+709,4477 S Lamar Blvd,1109 South Lamar Blvd,615
+710,4477 S Lamar Blvd,1400 South Congress Avenue,696
+711,4477 S Lamar Blvd,2438 W Anderson Ln,1139
+712,4477 S Lamar Blvd,69 Rainey Street,683
+713,4477 S Lamar Blvd,401 W 2nd St,755
+714,4477 S Lamar Blvd,5425 Burnet Rd,1025
+715,4477 S Lamar Blvd,520 W 6th St,886
+716,4477 S Lamar Blvd,6301 Parmer Ln,1638
+717,4477 S Lamar Blvd,2421 Webberville Rd,900
+718,4477 S Lamar Blvd,13301 US Highway 183,1379
+719,4477 S Lamar Blvd,507 Calles St,970
+720,4477 S Lamar Blvd,1509 S Lamar Blvd,576
+721,4477 S Lamar Blvd,3601 South Congress Avenue,398
+722,4477 S Lamar Blvd,2900 Duval St,998
+723,4477 S Lamar Blvd,3508 S Lamar Blvd,316
+724,4477 S Lamar Blvd,12221 Riata Trace Pkwy,1267
+725,4477 S Lamar Blvd,704 W St. Johns Ave,1200
+726,4477 S Lamar Blvd,9012 Research Blvd,1111
+727,4477 S Lamar Blvd,9010 Research Blvd,1078
+728,4477 S Lamar Blvd,4960 US Route 290,375
+729,4477 S Lamar Blvd,801 Red River St,784
+730,4477 S Lamar Blvd,12164 N Mopac Expy,1370
+731,4477 S Lamar Blvd,11601 Domain Dr,1236
+732,4477 S Lamar Blvd,4024 S Lamar Blvd,300
+733,4477 S Lamar Blvd,1000 E 41st St,896
+734,4477 S Lamar Blvd,7211 Burnet Rd,1127
+735,4477 S Lamar Blvd,900 Austin Highlands Blvd,608
+736,609 Davis St,407 Radam Ln,557
+737,609 Davis St,5701 W Slaughter Ln,979
+738,609 Davis St,1120 S Lamar Blvd,638
+739,609 Davis St,2700 W Anderson Ln,1108
+740,609 Davis St,6507 Burnet Road,1013
+741,609 Davis St,3003 S Lamar Blvd,695
+742,609 Davis St,96 Rainey Street,41
+743,609 Davis St,321 W Ben White Blvd,504
+744,609 Davis St,9070 Research Blvd,960
+745,609 Davis St,10817 Ranch Rd 2222,1662
+746,609 Davis St,317 E 6th St,342
+747,609 Davis St,1900 S 1st St,575
+748,609 Davis St,11680 Research Blvd,1045
+749,609 Davis St,909 W Mary St,640
+750,609 Davis St,201 Brazos St,260
+751,609 Davis St,4477 S Lamar Blvd,714
+752,609 Davis St,5204 Ranch Rd 2222,1189
+753,609 Davis St,3116 S Congress,499
+754,609 Davis St,8300 N FM 620,1937
+755,609 Davis St,1109 South Lamar Blvd,637
+756,609 Davis St,1400 South Congress Avenue,481
+757,609 Davis St,2438 W Anderson Ln,1010
+758,609 Davis St,69 Rainey Street,79
+759,609 Davis St,401 W 2nd St,384
+760,609 Davis St,5425 Burnet Rd,1008
+761,609 Davis St,520 W 6th St,469
+762,609 Davis St,6301 Parmer Ln,1465
+763,609 Davis St,2421 Webberville Rd,473
+764,609 Davis St,13301 US Highway 183,1200
+765,609 Davis St,507 Calles St,543
+766,609 Davis St,1509 S Lamar Blvd,672
+767,609 Davis St,3601 South Congress Avenue,517
+768,609 Davis St,2900 Duval St,566
+769,609 Davis St,3508 S Lamar Blvd,649
+770,609 Davis St,12221 Riata Trace Pkwy,1088
+771,609 Davis St,704 W St. Johns Ave,768
+772,609 Davis St,9012 Research Blvd,848
+773,609 Davis St,9010 Research Blvd,1014
+774,609 Davis St,4960 US Route 290,729
+775,609 Davis St,801 Red River St,373
+776,609 Davis St,12164 N Mopac Expy,1205
+777,609 Davis St,11601 Domain Dr,1070
+778,609 Davis St,4024 S Lamar Blvd,665
+779,609 Davis St,1000 E 41st St,464
+780,609 Davis St,7211 Burnet Rd,1110
+781,609 Davis St,900 Austin Highlands Blvd,780
+782,5204 Ranch Rd 2222,407 Radam Ln,1124
+783,5204 Ranch Rd 2222,5701 W Slaughter Ln,1271
+784,5204 Ranch Rd 2222,1120 S Lamar Blvd,963
+785,5204 Ranch Rd 2222,2700 W Anderson Ln,717
+786,5204 Ranch Rd 2222,6507 Burnet Road,591
+787,5204 Ranch Rd 2222,3003 S Lamar Blvd,1129
+788,5204 Ranch Rd 2222,96 Rainey Street,1058
+789,5204 Ranch Rd 2222,321 W Ben White Blvd,1114
+790,5204 Ranch Rd 2222,9070 Research Blvd,570
+791,5204 Ranch Rd 2222,10817 Ranch Rd 2222,473
+792,5204 Ranch Rd 2222,317 E 6th St,1153
+793,5204 Ranch Rd 2222,1900 S 1st St,1054
+794,5204 Ranch Rd 2222,11680 Research Blvd,676
+795,5204 Ranch Rd 2222,909 W Mary St,1105
+796,5204 Ranch Rd 2222,201 Brazos St,978
+797,5204 Ranch Rd 2222,4477 S Lamar Blvd,1046
+798,5204 Ranch Rd 2222,609 Davis St,1074
+799,5204 Ranch Rd 2222,3116 S Congress,1196
+800,5204 Ranch Rd 2222,8300 N FM 620,748
+801,5204 Ranch Rd 2222,1109 South Lamar Blvd,962
+802,5204 Ranch Rd 2222,1400 South Congress Avenue,1104
+803,5204 Ranch Rd 2222,2438 W Anderson Ln,731
+804,5204 Ranch Rd 2222,69 Rainey Street,1151
+805,5204 Ranch Rd 2222,401 W 2nd St,883
+806,5204 Ranch Rd 2222,5425 Burnet Rd,586
+807,5204 Ranch Rd 2222,520 W 6th St,995
+808,5204 Ranch Rd 2222,6301 Parmer Ln,1096
+809,5204 Ranch Rd 2222,2421 Webberville Rd,1355
+810,5204 Ranch Rd 2222,13301 US Highway 183,831
+811,5204 Ranch Rd 2222,507 Calles St,1425
+812,5204 Ranch Rd 2222,1509 S Lamar Blvd,997
+813,5204 Ranch Rd 2222,3601 South Congress Avenue,1147
+814,5204 Ranch Rd 2222,2900 Duval St,987
+815,5204 Ranch Rd 2222,3508 S Lamar Blvd,1083
+816,5204 Ranch Rd 2222,12221 Riata Trace Pkwy,719
+817,5204 Ranch Rd 2222,704 W St. Johns Ave,920
+818,5204 Ranch Rd 2222,9012 Research Blvd,618
+819,5204 Ranch Rd 2222,9010 Research Blvd,585
+820,5204 Ranch Rd 2222,4960 US Route 290,1026
+821,5204 Ranch Rd 2222,801 Red River St,1090
+822,5204 Ranch Rd 2222,12164 N Mopac Expy,963
+823,5204 Ranch Rd 2222,11601 Domain Dr,828
+824,5204 Ranch Rd 2222,4024 S Lamar Blvd,1026
+825,5204 Ranch Rd 2222,1000 E 41st St,1032
+826,5204 Ranch Rd 2222,7211 Burnet Rd,688
+827,5204 Ranch Rd 2222,900 Austin Highlands Blvd,1432
+828,3116 S Congress,407 Radam Ln,207
+829,3116 S Congress,5701 W Slaughter Ln,715
+830,3116 S Congress,1120 S Lamar Blvd,439
+831,3116 S Congress,2700 W Anderson Ln,1156
+832,3116 S Congress,6507 Burnet Road,1061
+833,3116 S Congress,3003 S Lamar Blvd,431
+834,3116 S Congress,96 Rainey Street,610
+835,3116 S Congress,321 W Ben White Blvd,241
+836,3116 S Congress,9070 Research Blvd,1094
+837,3116 S Congress,10817 Ranch Rd 2222,1607
+838,3116 S Congress,317 E 6th St,634
+839,3116 S Congress,1900 S 1st St,235
+840,3116 S Congress,11680 Research Blvd,1255
+841,3116 S Congress,909 W Mary St,331
+842,3116 S Congress,201 Brazos St,530
+843,3116 S Congress,4477 S Lamar Blvd,450
+844,3116 S Congress,609 Davis St,626
+845,3116 S Congress,5204 Ranch Rd 2222,1201
+846,3116 S Congress,8300 N FM 620,1882
+847,3116 S Congress,1109 South Lamar Blvd,439
+848,3116 S Congress,1400 South Congress Avenue,248
+849,3116 S Congress,2438 W Anderson Ln,1170
+850,3116 S Congress,69 Rainey Street,526
+851,3116 S Congress,401 W 2nd St,553
+852,3116 S Congress,5425 Burnet Rd,1056
+853,3116 S Congress,520 W 6th St,638
+854,3116 S Congress,6301 Parmer Ln,1669
+855,3116 S Congress,2421 Webberville Rd,743
+856,3116 S Congress,13301 US Highway 183,1410
+857,3116 S Congress,507 Calles St,813
+858,3116 S Congress,1509 S Lamar Blvd,400
+859,3116 S Congress,3601 South Congress Avenue,46
+860,3116 S Congress,2900 Duval St,841
+861,3116 S Congress,3508 S Lamar Blvd,385
+862,3116 S Congress,12221 Riata Trace Pkwy,1298
+863,3116 S Congress,704 W St. Johns Ave,1043
+864,3116 S Congress,9012 Research Blvd,1123
+865,3116 S Congress,9010 Research Blvd,1109
+866,3116 S Congress,4960 US Route 290,465
+867,3116 S Congress,801 Red River St,627
+868,3116 S Congress,12164 N Mopac Expy,1401
+869,3116 S Congress,11601 Domain Dr,1267
+870,3116 S Congress,4024 S Lamar Blvd,401
+871,3116 S Congress,1000 E 41st St,739
+872,3116 S Congress,7211 Burnet Rd,1158
+873,3116 S Congress,900 Austin Highlands Blvd,591
+874,8300 N FM 620,407 Radam Ln,1808
+875,8300 N FM 620,5701 W Slaughter Ln,1942
+876,8300 N FM 620,1120 S Lamar Blvd,1703
+877,8300 N FM 620,2700 W Anderson Ln,1404
+878,8300 N FM 620,6507 Burnet Road,1331
+879,8300 N FM 620,3003 S Lamar Blvd,1813
+880,8300 N FM 620,96 Rainey Street,1798
+881,8300 N FM 620,321 W Ben White Blvd,1798
+882,8300 N FM 620,9070 Research Blvd,1101
+883,8300 N FM 620,10817 Ranch Rd 2222,346
+884,8300 N FM 620,317 E 6th St,1793
+885,8300 N FM 620,1900 S 1st St,1794
+886,8300 N FM 620,11680 Research Blvd,927
+887,8300 N FM 620,909 W Mary St,1845
+888,8300 N FM 620,201 Brazos St,1718
+889,8300 N FM 620,4477 S Lamar Blvd,1730
+890,8300 N FM 620,609 Davis St,1814
+891,8300 N FM 620,5204 Ranch Rd 2222,739
+892,8300 N FM 620,3116 S Congress,1880
+893,8300 N FM 620,1109 South Lamar Blvd,1702
+894,8300 N FM 620,1400 South Congress Avenue,1844
+895,8300 N FM 620,2438 W Anderson Ln,1354
+896,8300 N FM 620,69 Rainey Street,1827
+897,8300 N FM 620,401 W 2nd St,1623
+898,8300 N FM 620,5425 Burnet Rd,1326
+899,8300 N FM 620,520 W 6th St,1735
+900,8300 N FM 620,6301 Parmer Ln,1058
+901,8300 N FM 620,2421 Webberville Rd,1914
+902,8300 N FM 620,13301 US Highway 183,862
+903,8300 N FM 620,507 Calles St,1984
+904,8300 N FM 620,1509 S Lamar Blvd,1737
+905,8300 N FM 620,3601 South Congress Avenue,1831
+906,8300 N FM 620,2900 Duval St,1727
+907,8300 N FM 620,3508 S Lamar Blvd,1767
+908,8300 N FM 620,12221 Riata Trace Pkwy,1009
+909,8300 N FM 620,704 W St. Johns Ave,1341
+910,8300 N FM 620,9012 Research Blvd,1149
+911,8300 N FM 620,9010 Research Blvd,1116
+912,8300 N FM 620,4960 US Route 290,1697
+913,8300 N FM 620,801 Red River St,1719
+914,8300 N FM 620,12164 N Mopac Expy,1151
+915,8300 N FM 620,11601 Domain Dr,1282
+916,8300 N FM 620,4024 S Lamar Blvd,1710
+917,8300 N FM 620,1000 E 41st St,1517
+918,8300 N FM 620,7211 Burnet Rd,1428
+919,8300 N FM 620,900 Austin Highlands Blvd,2116
+920,1109 South Lamar Blvd,407 Radam Ln,579
+921,1109 South Lamar Blvd,5701 W Slaughter Ln,902
+922,1109 South Lamar Blvd,1120 S Lamar Blvd,1
+923,1109 South Lamar Blvd,2700 W Anderson Ln,938
+924,1109 South Lamar Blvd,6507 Burnet Road,843
+925,1109 South Lamar Blvd,3003 S Lamar Blvd,274
+926,1109 South Lamar Blvd,96 Rainey Street,526
+927,1109 South Lamar Blvd,321 W Ben White Blvd,562
+928,1109 South Lamar Blvd,9070 Research Blvd,876
+929,1109 South Lamar Blvd,10817 Ranch Rd 2222,1492
+930,1109 South Lamar Blvd,317 E 6th St,572
+931,1109 South Lamar Blvd,1900 S 1st St,240
+932,1109 South Lamar Blvd,11680 Research Blvd,1037
+933,1109 South Lamar Blvd,909 W Mary St,143
+934,1109 South Lamar Blvd,201 Brazos St,446
+935,1109 South Lamar Blvd,4477 S Lamar Blvd,586
+936,1109 South Lamar Blvd,609 Davis St,542
+937,1109 South Lamar Blvd,5204 Ranch Rd 2222,1019
+938,1109 South Lamar Blvd,3116 S Congress,451
+939,1109 South Lamar Blvd,8300 N FM 620,1767
+940,1109 South Lamar Blvd,1400 South Congress Avenue,390
+941,1109 South Lamar Blvd,2438 W Anderson Ln,952
+942,1109 South Lamar Blvd,69 Rainey Street,619
+943,1109 South Lamar Blvd,401 W 2nd St,351
+944,1109 South Lamar Blvd,5425 Burnet Rd,838
+945,1109 South Lamar Blvd,520 W 6th St,406
+946,1109 South Lamar Blvd,6301 Parmer Ln,1451
+947,1109 South Lamar Blvd,2421 Webberville Rd,823
+948,1109 South Lamar Blvd,13301 US Highway 183,1192
+949,1109 South Lamar Blvd,507 Calles St,893
+950,1109 South Lamar Blvd,1509 S Lamar Blvd,35
+951,1109 South Lamar Blvd,3601 South Congress Avenue,497
+952,1109 South Lamar Blvd,2900 Duval St,830
+953,1109 South Lamar Blvd,3508 S Lamar Blvd,318
+954,1109 South Lamar Blvd,12221 Riata Trace Pkwy,1080
+955,1109 South Lamar Blvd,704 W St. Johns Ave,1118
+956,1109 South Lamar Blvd,9012 Research Blvd,924
+957,1109 South Lamar Blvd,9010 Research Blvd,891
+958,1109 South Lamar Blvd,4960 US Route 290,652
+959,1109 South Lamar Blvd,801 Red River St,682
+960,1109 South Lamar Blvd,12164 N Mopac Expy,1183
+961,1109 South Lamar Blvd,11601 Domain Dr,1048
+962,1109 South Lamar Blvd,4024 S Lamar Blvd,425
+963,1109 South Lamar Blvd,1000 E 41st St,814
+964,1109 South Lamar Blvd,7211 Burnet Rd,940
+965,1109 South Lamar Blvd,900 Austin Highlands Blvd,887
+966,1400 South Congress Avenue,407 Radam Ln,474
+967,1400 South Congress Avenue,5701 W Slaughter Ln,982
+968,1400 South Congress Avenue,1120 S Lamar Blvd,375
+969,1400 South Congress Avenue,2700 W Anderson Ln,1099
+970,1400 South Congress Avenue,6507 Burnet Road,1004
+971,1400 South Congress Avenue,3003 S Lamar Blvd,551
+972,1400 South Congress Avenue,96 Rainey Street,361
+973,1400 South Congress Avenue,321 W Ben White Blvd,508
+974,1400 South Congress Avenue,9070 Research Blvd,1037
+975,1400 South Congress Avenue,10817 Ranch Rd 2222,1653
+976,1400 South Congress Avenue,317 E 6th St,451
+977,1400 South Congress Avenue,1900 S 1st St,179
+978,1400 South Congress Avenue,11680 Research Blvd,1198
+979,1400 South Congress Avenue,909 W Mary St,229
+980,1400 South Congress Avenue,201 Brazos St,281
+981,1400 South Congress Avenue,4477 S Lamar Blvd,717
+982,1400 South Congress Avenue,609 Davis St,377
+983,1400 South Congress Avenue,5204 Ranch Rd 2222,1180
+984,1400 South Congress Avenue,3116 S Congress,267
+985,1400 South Congress Avenue,8300 N FM 620,1928
+986,1400 South Congress Avenue,1109 South Lamar Blvd,376
+987,1400 South Congress Avenue,2438 W Anderson Ln,1113
+988,1400 South Congress Avenue,69 Rainey Street,444
+989,1400 South Congress Avenue,401 W 2nd St,377
+990,1400 South Congress Avenue,5425 Burnet Rd,999
+991,1400 South Congress Avenue,520 W 6th St,438
+992,1400 South Congress Avenue,6301 Parmer Ln,1612
+993,1400 South Congress Avenue,2421 Webberville Rd,658
+994,1400 South Congress Avenue,13301 US Highway 183,1353
+995,1400 South Congress Avenue,507 Calles St,728
+996,1400 South Congress Avenue,1509 S Lamar Blvd,337
+997,1400 South Congress Avenue,3601 South Congress Avenue,313
+998,1400 South Congress Avenue,2900 Duval St,751
+999,1400 South Congress Avenue,3508 S Lamar Blvd,595
+1000,1400 South Congress Avenue,12221 Riata Trace Pkwy,1241
+1001,1400 South Congress Avenue,704 W St. Johns Ave,953
+1002,1400 South Congress Avenue,9012 Research Blvd,1033
+1003,1400 South Congress Avenue,9010 Research Blvd,1052
+1004,1400 South Congress Avenue,4960 US Route 290,732
+1005,1400 South Congress Avenue,801 Red River St,542
+1006,1400 South Congress Avenue,12164 N Mopac Expy,1344
+1007,1400 South Congress Avenue,11601 Domain Dr,1209
+1008,1400 South Congress Avenue,4024 S Lamar Blvd,702
+1009,1400 South Congress Avenue,1000 E 41st St,649
+1010,1400 South Congress Avenue,7211 Burnet Rd,1101
+1011,1400 South Congress Avenue,900 Austin Highlands Blvd,858
+1012,2438 W Anderson Ln,407 Radam Ln,1149
+1013,2438 W Anderson Ln,5701 W Slaughter Ln,1295
+1014,2438 W Anderson Ln,1120 S Lamar Blvd,987
+1015,2438 W Anderson Ln,2700 W Anderson Ln,142
+1016,2438 W Anderson Ln,6507 Burnet Road,246
+1017,2438 W Anderson Ln,3003 S Lamar Blvd,1154
+1018,2438 W Anderson Ln,96 Rainey Street,889
+1019,2438 W Anderson Ln,321 W Ben White Blvd,1139
+1020,2438 W Anderson Ln,9070 Research Blvd,313
+1021,2438 W Anderson Ln,10817 Ranch Rd 2222,1167
+1022,2438 W Anderson Ln,317 E 6th St,912
+1023,2438 W Anderson Ln,1900 S 1st St,1078
+1024,2438 W Anderson Ln,11680 Research Blvd,550
+1025,2438 W Anderson Ln,909 W Mary St,1129
+1026,2438 W Anderson Ln,201 Brazos St,1002
+1027,2438 W Anderson Ln,4477 S Lamar Blvd,1071
+1028,2438 W Anderson Ln,609 Davis St,953
+1029,2438 W Anderson Ln,5204 Ranch Rd 2222,780
+1030,2438 W Anderson Ln,3116 S Congress,1195
+1031,2438 W Anderson Ln,8300 N FM 620,1389
+1032,2438 W Anderson Ln,1109 South Lamar Blvd,986
+1033,2438 W Anderson Ln,1400 South Congress Avenue,1128
+1034,2438 W Anderson Ln,69 Rainey Street,946
+1035,2438 W Anderson Ln,401 W 2nd St,907
+1036,2438 W Anderson Ln,5425 Burnet Rd,371
+1037,2438 W Anderson Ln,520 W 6th St,1019
+1038,2438 W Anderson Ln,6301 Parmer Ln,966
+1039,2438 W Anderson Ln,2421 Webberville Rd,1033
+1040,2438 W Anderson Ln,13301 US Highway 183,705
+1041,2438 W Anderson Ln,507 Calles St,1103
+1042,2438 W Anderson Ln,1509 S Lamar Blvd,1021
+1043,2438 W Anderson Ln,3601 South Congress Avenue,1172
+1044,2438 W Anderson Ln,2900 Duval St,870
+1045,2438 W Anderson Ln,3508 S Lamar Blvd,1108
+1046,2438 W Anderson Ln,12221 Riata Trace Pkwy,593
+1047,2438 W Anderson Ln,704 W St. Johns Ave,394
+1048,2438 W Anderson Ln,9012 Research Blvd,254
+1049,2438 W Anderson Ln,9010 Research Blvd,361
+1050,2438 W Anderson Ln,4960 US Route 290,1050
+1051,2438 W Anderson Ln,801 Red River St,838
+1052,2438 W Anderson Ln,12164 N Mopac Expy,698
+1053,2438 W Anderson Ln,11601 Domain Dr,564
+1054,2438 W Anderson Ln,4024 S Lamar Blvd,1051
+1055,2438 W Anderson Ln,1000 E 41st St,636
+1056,2438 W Anderson Ln,7211 Burnet Rd,227
+1057,2438 W Anderson Ln,900 Austin Highlands Blvd,1457
+1058,69 Rainey Street,407 Radam Ln,570
+1059,69 Rainey Street,5701 W Slaughter Ln,992
+1060,69 Rainey Street,1120 S Lamar Blvd,591
+1061,69 Rainey Street,2700 W Anderson Ln,1042
+1062,69 Rainey Street,6507 Burnet Road,1063
+1063,69 Rainey Street,3003 S Lamar Blvd,708
+1064,69 Rainey Street,96 Rainey Street,91
+1065,69 Rainey Street,321 W Ben White Blvd,517
+1066,69 Rainey Street,9070 Research Blvd,953
+1067,69 Rainey Street,10817 Ranch Rd 2222,1712
+1068,69 Rainey Street,317 E 6th St,358
+1069,69 Rainey Street,1900 S 1st St,516
+1070,69 Rainey Street,11680 Research Blvd,1038
+1071,69 Rainey Street,909 W Mary St,581
+1072,69 Rainey Street,201 Brazos St,310
+1073,69 Rainey Street,4477 S Lamar Blvd,727
+1074,69 Rainey Street,609 Davis St,191
+1075,69 Rainey Street,5204 Ranch Rd 2222,1239
+1076,69 Rainey Street,3116 S Congress,512
+1077,69 Rainey Street,8300 N FM 620,1877
+1078,69 Rainey Street,1109 South Lamar Blvd,591
+1079,69 Rainey Street,1400 South Congress Avenue,402
+1080,69 Rainey Street,2438 W Anderson Ln,1003
+1081,69 Rainey Street,401 W 2nd St,434
+1082,69 Rainey Street,5425 Burnet Rd,1011
+1083,69 Rainey Street,520 W 6th St,508
+1084,69 Rainey Street,6301 Parmer Ln,1458
+1085,69 Rainey Street,2421 Webberville Rd,466
+1086,69 Rainey Street,13301 US Highway 183,1193
+1087,69 Rainey Street,507 Calles St,511
+1088,69 Rainey Street,1509 S Lamar Blvd,626
+1089,69 Rainey Street,3601 South Congress Avenue,530
+1090,69 Rainey Street,2900 Duval St,559
+1091,69 Rainey Street,3508 S Lamar Blvd,662
+1092,69 Rainey Street,12221 Riata Trace Pkwy,1081
+1093,69 Rainey Street,704 W St. Johns Ave,761
+1094,69 Rainey Street,9012 Research Blvd,841
+1095,69 Rainey Street,9010 Research Blvd,1007
+1096,69 Rainey Street,4960 US Route 290,742
+1097,69 Rainey Street,801 Red River St,350
+1098,69 Rainey Street,12164 N Mopac Expy,1198
+1099,69 Rainey Street,11601 Domain Dr,1063
+1100,69 Rainey Street,4024 S Lamar Blvd,678
+1101,69 Rainey Street,1000 E 41st St,457
+1102,69 Rainey Street,7211 Burnet Rd,1073
+1103,69 Rainey Street,900 Austin Highlands Blvd,794
+1104,401 W 2nd St,407 Radam Ln,646
+1105,401 W 2nd St,5701 W Slaughter Ln,868
+1106,401 W 2nd St,1120 S Lamar Blvd,355
+1107,401 W 2nd St,2700 W Anderson Ln,824
+1108,401 W 2nd St,6507 Burnet Road,729
+1109,401 W 2nd St,3003 S Lamar Blvd,628
+1110,401 W 2nd St,96 Rainey Street,263
+1111,401 W 2nd St,321 W Ben White Blvd,630
+1112,401 W 2nd St,9070 Research Blvd,762
+1113,401 W 2nd St,10817 Ranch Rd 2222,1378
+1114,401 W 2nd St,317 E 6th St,319
+1115,401 W 2nd St,1900 S 1st St,256
+1116,401 W 2nd St,11680 Research Blvd,923
+1117,401 W 2nd St,909 W Mary St,321
+1118,401 W 2nd St,201 Brazos St,183
+1119,401 W 2nd St,4477 S Lamar Blvd,644
+1120,401 W 2nd St,609 Davis St,279
+1121,401 W 2nd St,5204 Ranch Rd 2222,905
+1122,401 W 2nd St,3116 S Congress,519
+1123,401 W 2nd St,8300 N FM 620,1653
+1124,401 W 2nd St,1109 South Lamar Blvd,354
+1125,401 W 2nd St,1400 South Congress Avenue,308
+1126,401 W 2nd St,2438 W Anderson Ln,838
+1127,401 W 2nd St,69 Rainey Street,356
+1128,401 W 2nd St,5425 Burnet Rd,724
+1129,401 W 2nd St,520 W 6th St,204
+1130,401 W 2nd St,6301 Parmer Ln,1337
+1131,401 W 2nd St,2421 Webberville Rd,560
+1132,401 W 2nd St,13301 US Highway 183,1078
+1133,401 W 2nd St,507 Calles St,630
+1134,401 W 2nd St,1509 S Lamar Blvd,389
+1135,401 W 2nd St,3601 South Congress Avenue,565
+1136,401 W 2nd St,2900 Duval St,653
+1137,401 W 2nd St,3508 S Lamar Blvd,672
+1138,401 W 2nd St,12221 Riata Trace Pkwy,966
+1139,401 W 2nd St,704 W St. Johns Ave,855
+1140,401 W 2nd St,9012 Research Blvd,810
+1141,401 W 2nd St,9010 Research Blvd,777
+1142,401 W 2nd St,4960 US Route 290,623
+1143,401 W 2nd St,801 Red River St,407
+1144,401 W 2nd St,12164 N Mopac Expy,1069
+1145,401 W 2nd St,11601 Domain Dr,934
+1146,401 W 2nd St,4024 S Lamar Blvd,624
+1147,401 W 2nd St,1000 E 41st St,551
+1148,401 W 2nd St,7211 Burnet Rd,826
+1149,401 W 2nd St,900 Austin Highlands Blvd,954
+1150,5425 Burnet Rd,407 Radam Ln,1016
+1151,5425 Burnet Rd,5701 W Slaughter Ln,1163
+1152,5425 Burnet Rd,1120 S Lamar Blvd,855
+1153,5425 Burnet Rd,2700 W Anderson Ln,440
+1154,5425 Burnet Rd,6507 Burnet Road,143
+1155,5425 Burnet Rd,3003 S Lamar Blvd,1021
+1156,5425 Burnet Rd,96 Rainey Street,814
+1157,5425 Burnet Rd,321 W Ben White Blvd,1006
+1158,5425 Burnet Rd,9070 Research Blvd,569
+1159,5425 Burnet Rd,10817 Ranch Rd 2222,1055
+1160,5425 Burnet Rd,317 E 6th St,837
+1161,5425 Burnet Rd,1900 S 1st St,946
+1162,5425 Burnet Rd,11680 Research Blvd,687
+1163,5425 Burnet Rd,909 W Mary St,997
+1164,5425 Burnet Rd,201 Brazos St,870
+1165,5425 Burnet Rd,4477 S Lamar Blvd,938
+1166,5425 Burnet Rd,609 Davis St,878
+1167,5425 Burnet Rd,5204 Ranch Rd 2222,582
+1168,5425 Burnet Rd,3116 S Congress,1120
+1169,5425 Burnet Rd,8300 N FM 620,1330
+1170,5425 Burnet Rd,1109 South Lamar Blvd,854
+1171,5425 Burnet Rd,1400 South Congress Avenue,996
+1172,5425 Burnet Rd,2438 W Anderson Ln,405
+1173,5425 Burnet Rd,69 Rainey Street,871
+1174,5425 Burnet Rd,401 W 2nd St,775
+1175,5425 Burnet Rd,520 W 6th St,887
+1176,5425 Burnet Rd,6301 Parmer Ln,1101
+1177,5425 Burnet Rd,2421 Webberville Rd,958
+1178,5425 Burnet Rd,13301 US Highway 183,842
+1179,5425 Burnet Rd,507 Calles St,1028
+1180,5425 Burnet Rd,1509 S Lamar Blvd,889
+1181,5425 Burnet Rd,3601 South Congress Avenue,1039
+1182,5425 Burnet Rd,2900 Duval St,640
+1183,5425 Burnet Rd,3508 S Lamar Blvd,975
+1184,5425 Burnet Rd,12221 Riata Trace Pkwy,730
+1185,5425 Burnet Rd,704 W St. Johns Ave,465
+1186,5425 Burnet Rd,9012 Research Blvd,510
+1187,5425 Burnet Rd,9010 Research Blvd,541
+1188,5425 Burnet Rd,4960 US Route 290,918
+1189,5425 Burnet Rd,801 Red River St,763
+1190,5425 Burnet Rd,12164 N Mopac Expy,833
+1191,5425 Burnet Rd,11601 Domain Dr,699
+1192,5425 Burnet Rd,4024 S Lamar Blvd,918
+1193,5425 Burnet Rd,1000 E 41st St,590
+1194,5425 Burnet Rd,7211 Burnet Rd,240
+1195,5425 Burnet Rd,900 Austin Highlands Blvd,1401
+1196,520 W 6th St,407 Radam Ln,792
+1197,520 W 6th St,5701 W Slaughter Ln,970
+1198,520 W 6th St,1120 S Lamar Blvd,370
+1199,520 W 6th St,2700 W Anderson Ln,881
+1200,520 W 6th St,6507 Burnet Road,786
+1201,520 W 6th St,3003 S Lamar Blvd,643
+1202,520 W 6th St,96 Rainey Street,409
+1203,520 W 6th St,321 W Ben White Blvd,776
+1204,520 W 6th St,9070 Research Blvd,819
+1205,520 W 6th St,10817 Ranch Rd 2222,1435
+1206,520 W 6th St,317 E 6th St,309
+1207,520 W 6th St,1900 S 1st St,402
+1208,520 W 6th St,11680 Research Blvd,980
+1209,520 W 6th St,909 W Mary St,467
+1210,520 W 6th St,201 Brazos St,292
+1211,520 W 6th St,4477 S Lamar Blvd,746
+1212,520 W 6th St,609 Davis St,425
+1213,520 W 6th St,5204 Ranch Rd 2222,962
+1214,520 W 6th St,3116 S Congress,665
+1215,520 W 6th St,8300 N FM 620,1710
+1216,520 W 6th St,1109 South Lamar Blvd,369
+1217,520 W 6th St,1400 South Congress Avenue,454
+1218,520 W 6th St,2438 W Anderson Ln,895
+1219,520 W 6th St,69 Rainey Street,526
+1220,520 W 6th St,401 W 2nd St,170
+1221,520 W 6th St,5425 Burnet Rd,781
+1222,520 W 6th St,6301 Parmer Ln,1394
+1223,520 W 6th St,2421 Webberville Rd,580
+1224,520 W 6th St,13301 US Highway 183,1135
+1225,520 W 6th St,507 Calles St,649
+1226,520 W 6th St,1509 S Lamar Blvd,404
+1227,520 W 6th St,3601 South Congress Avenue,711
+1228,520 W 6th St,2900 Duval St,695
+1229,520 W 6th St,3508 S Lamar Blvd,687
+1230,520 W 6th St,12221 Riata Trace Pkwy,1023
+1231,520 W 6th St,704 W St. Johns Ave,940
+1232,520 W 6th St,9012 Research Blvd,867
+1233,520 W 6th St,9010 Research Blvd,834
+1234,520 W 6th St,4960 US Route 290,725
+1235,520 W 6th St,801 Red River St,365
+1236,520 W 6th St,12164 N Mopac Expy,1126
+1237,520 W 6th St,11601 Domain Dr,991
+1238,520 W 6th St,4024 S Lamar Blvd,794
+1239,520 W 6th St,1000 E 41st St,636
+1240,520 W 6th St,7211 Burnet Rd,883
+1241,520 W 6th St,900 Austin Highlands Blvd,1100
+1242,6301 Parmer Ln,407 Radam Ln,1576
+1243,6301 Parmer Ln,5701 W Slaughter Ln,1723
+1244,6301 Parmer Ln,1120 S Lamar Blvd,1415
+1245,6301 Parmer Ln,2700 W Anderson Ln,981
+1246,6301 Parmer Ln,6507 Burnet Road,1043
+1247,6301 Parmer Ln,3003 S Lamar Blvd,1581
+1248,6301 Parmer Ln,96 Rainey Street,1368
+1249,6301 Parmer Ln,321 W Ben White Blvd,1566
+1250,6301 Parmer Ln,9070 Research Blvd,680
+1251,6301 Parmer Ln,10817 Ranch Rd 2222,1295
+1252,6301 Parmer Ln,317 E 6th St,1391
+1253,6301 Parmer Ln,1900 S 1st St,1506
+1254,6301 Parmer Ln,11680 Research Blvd,570
+1255,6301 Parmer Ln,909 W Mary St,1557
+1256,6301 Parmer Ln,201 Brazos St,1430
+1257,6301 Parmer Ln,4477 S Lamar Blvd,1498
+1258,6301 Parmer Ln,609 Davis St,1432
+1259,6301 Parmer Ln,5204 Ranch Rd 2222,1051
+1260,6301 Parmer Ln,3116 S Congress,1674
+1261,6301 Parmer Ln,8300 N FM 620,1096
+1262,6301 Parmer Ln,1109 South Lamar Blvd,1414
+1263,6301 Parmer Ln,1400 South Congress Avenue,1556
+1264,6301 Parmer Ln,2438 W Anderson Ln,933
+1265,6301 Parmer Ln,69 Rainey Street,1425
+1266,6301 Parmer Ln,401 W 2nd St,1335
+1267,6301 Parmer Ln,5425 Burnet Rd,1107
+1268,6301 Parmer Ln,520 W 6th St,1447
+1269,6301 Parmer Ln,2421 Webberville Rd,1512
+1270,6301 Parmer Ln,13301 US Highway 183,434
+1271,6301 Parmer Ln,507 Calles St,1582
+1272,6301 Parmer Ln,1509 S Lamar Blvd,1449
+1273,6301 Parmer Ln,3601 South Congress Avenue,1599
+1274,6301 Parmer Ln,2900 Duval St,1349
+1275,6301 Parmer Ln,3508 S Lamar Blvd,1535
+1276,6301 Parmer Ln,12221 Riata Trace Pkwy,415
+1277,6301 Parmer Ln,704 W St. Johns Ave,940
+1278,6301 Parmer Ln,9012 Research Blvd,728
+1279,6301 Parmer Ln,9010 Research Blvd,695
+1280,6301 Parmer Ln,4960 US Route 290,1478
+1281,6301 Parmer Ln,801 Red River St,1317
+1282,6301 Parmer Ln,12164 N Mopac Expy,437
+1283,6301 Parmer Ln,11601 Domain Dr,705
+1284,6301 Parmer Ln,4024 S Lamar Blvd,1478
+1285,6301 Parmer Ln,1000 E 41st St,1115
+1286,6301 Parmer Ln,7211 Burnet Rd,1023
+1287,6301 Parmer Ln,900 Austin Highlands Blvd,1884
+1288,2421 Webberville Rd,407 Radam Ln,770
+1289,2421 Webberville Rd,5701 W Slaughter Ln,1192
+1290,2421 Webberville Rd,1120 S Lamar Blvd,892
+1291,2421 Webberville Rd,2700 W Anderson Ln,1063
+1292,2421 Webberville Rd,6507 Burnet Road,1118
+1293,2421 Webberville Rd,3003 S Lamar Blvd,908
+1294,2421 Webberville Rd,96 Rainey Street,441
+1295,2421 Webberville Rd,321 W Ben White Blvd,717
+1296,2421 Webberville Rd,9070 Research Blvd,974
+1297,2421 Webberville Rd,10817 Ranch Rd 2222,1736
+1298,2421 Webberville Rd,317 E 6th St,372
+1299,2421 Webberville Rd,1900 S 1st St,828
+1300,2421 Webberville Rd,11680 Research Blvd,1059
+1301,2421 Webberville Rd,909 W Mary St,893
+1302,2421 Webberville Rd,201 Brazos St,575
+1303,2421 Webberville Rd,4477 S Lamar Blvd,927
+1304,2421 Webberville Rd,609 Davis St,522
+1305,2421 Webberville Rd,5204 Ranch Rd 2222,1390
+1306,2421 Webberville Rd,3116 S Congress,713
+1307,2421 Webberville Rd,8300 N FM 620,1898
+1308,2421 Webberville Rd,1109 South Lamar Blvd,891
+1309,2421 Webberville Rd,1400 South Congress Avenue,671
+1310,2421 Webberville Rd,2438 W Anderson Ln,1024
+1311,2421 Webberville Rd,69 Rainey Street,508
+1312,2421 Webberville Rd,401 W 2nd St,595
+1313,2421 Webberville Rd,5425 Burnet Rd,1032
+1314,2421 Webberville Rd,520 W 6th St,522
+1315,2421 Webberville Rd,6301 Parmer Ln,1479
+1316,2421 Webberville Rd,13301 US Highway 183,1214
+1317,2421 Webberville Rd,507 Calles St,190
+1318,2421 Webberville Rd,1509 S Lamar Blvd,926
+1319,2421 Webberville Rd,3601 South Congress Avenue,731
+1320,2421 Webberville Rd,2900 Duval St,580
+1321,2421 Webberville Rd,3508 S Lamar Blvd,862
+1322,2421 Webberville Rd,12221 Riata Trace Pkwy,1102
+1323,2421 Webberville Rd,704 W St. Johns Ave,782
+1324,2421 Webberville Rd,9012 Research Blvd,862
+1325,2421 Webberville Rd,9010 Research Blvd,1028
+1326,2421 Webberville Rd,4960 US Route 290,942
+1327,2421 Webberville Rd,801 Red River St,304
+1328,2421 Webberville Rd,12164 N Mopac Expy,1219
+1329,2421 Webberville Rd,11601 Domain Dr,1084
+1330,2421 Webberville Rd,4024 S Lamar Blvd,878
+1331,2421 Webberville Rd,1000 E 41st St,478
+1332,2421 Webberville Rd,7211 Burnet Rd,1094
+1333,2421 Webberville Rd,900 Austin Highlands Blvd,994
+1334,13301 US Highway 183,407 Radam Ln,1423
+1335,13301 US Highway 183,5701 W Slaughter Ln,1569
+1336,13301 US Highway 183,1120 S Lamar Blvd,1261
+1337,13301 US Highway 183,2700 W Anderson Ln,816
+1338,13301 US Highway 183,6507 Burnet Road,876
+1339,13301 US Highway 183,3003 S Lamar Blvd,1428
+1340,13301 US Highway 183,96 Rainey Street,1182
+1341,13301 US Highway 183,321 W Ben White Blvd,1413
+1342,13301 US Highway 183,9070 Research Blvd,513
+1343,13301 US Highway 183,10817 Ranch Rd 2222,884
+1344,13301 US Highway 183,317 E 6th St,1205
+1345,13301 US Highway 183,1900 S 1st St,1352
+1346,13301 US Highway 183,11680 Research Blvd,339
+1347,13301 US Highway 183,909 W Mary St,1403
+1348,13301 US Highway 183,201 Brazos St,1276
+1349,13301 US Highway 183,4477 S Lamar Blvd,1345
+1350,13301 US Highway 183,609 Davis St,1246
+1351,13301 US Highway 183,5204 Ranch Rd 2222,864
+1352,13301 US Highway 183,3116 S Congress,1488
+1353,13301 US Highway 183,8300 N FM 620,684
+1354,13301 US Highway 183,1109 South Lamar Blvd,1260
+1355,13301 US Highway 183,1400 South Congress Avenue,1402
+1356,13301 US Highway 183,2438 W Anderson Ln,766
+1357,13301 US Highway 183,69 Rainey Street,1239
+1358,13301 US Highway 183,401 W 2nd St,1181
+1359,13301 US Highway 183,5425 Burnet Rd,953
+1360,13301 US Highway 183,520 W 6th St,1293
+1361,13301 US Highway 183,6301 Parmer Ln,522
+1362,13301 US Highway 183,2421 Webberville Rd,1326
+1363,13301 US Highway 183,507 Calles St,1396
+1364,13301 US Highway 183,1509 S Lamar Blvd,1295
+1365,13301 US Highway 183,3601 South Congress Avenue,1446
+1366,13301 US Highway 183,2900 Duval St,1163
+1367,13301 US Highway 183,3508 S Lamar Blvd,1382
+1368,13301 US Highway 183,12221 Riata Trace Pkwy,421
+1369,13301 US Highway 183,704 W St. Johns Ave,753
+1370,13301 US Highway 183,9012 Research Blvd,561
+1371,13301 US Highway 183,9010 Research Blvd,528
+1372,13301 US Highway 183,4960 US Route 290,1324
+1373,13301 US Highway 183,801 Red River St,1131
+1374,13301 US Highway 183,12164 N Mopac Expy,751
+1375,13301 US Highway 183,11601 Domain Dr,694
+1376,13301 US Highway 183,4024 S Lamar Blvd,1325
+1377,13301 US Highway 183,1000 E 41st St,929
+1378,13301 US Highway 183,7211 Burnet Rd,856
+1379,13301 US Highway 183,900 Austin Highlands Blvd,1770
+1380,507 Calles St,407 Radam Ln,856
+1381,507 Calles St,5701 W Slaughter Ln,1278
+1382,507 Calles St,1120 S Lamar Blvd,986
+1383,507 Calles St,2700 W Anderson Ln,1150
+1384,507 Calles St,6507 Burnet Road,1205
+1385,507 Calles St,3003 S Lamar Blvd,994
+1386,507 Calles St,96 Rainey Street,498
+1387,507 Calles St,321 W Ben White Blvd,803
+1388,507 Calles St,9070 Research Blvd,1061
+1389,507 Calles St,10817 Ranch Rd 2222,1823
+1390,507 Calles St,317 E 6th St,458
+1391,507 Calles St,1900 S 1st St,902
+1392,507 Calles St,11680 Research Blvd,1146
+1393,507 Calles St,909 W Mary St,967
+1394,507 Calles St,201 Brazos St,608
+1395,507 Calles St,4477 S Lamar Blvd,1013
+1396,507 Calles St,609 Davis St,556
+1397,507 Calles St,5204 Ranch Rd 2222,1477
+1398,507 Calles St,3116 S Congress,799
+1399,507 Calles St,8300 N FM 620,1985
+1400,507 Calles St,1109 South Lamar Blvd,985
+1401,507 Calles St,1400 South Congress Avenue,788
+1402,507 Calles St,2438 W Anderson Ln,1111
+1403,507 Calles St,69 Rainey Street,540
+1404,507 Calles St,401 W 2nd St,681
+1405,507 Calles St,5425 Burnet Rd,1119
+1406,507 Calles St,520 W 6th St,608
+1407,507 Calles St,6301 Parmer Ln,1566
+1408,507 Calles St,2421 Webberville Rd,174
+1409,507 Calles St,13301 US Highway 183,1301
+1410,507 Calles St,1509 S Lamar Blvd,1020
+1411,507 Calles St,3601 South Congress Avenue,817
+1412,507 Calles St,2900 Duval St,667
+1413,507 Calles St,3508 S Lamar Blvd,948
+1414,507 Calles St,12221 Riata Trace Pkwy,1189
+1415,507 Calles St,704 W St. Johns Ave,869
+1416,507 Calles St,9012 Research Blvd,949
+1417,507 Calles St,9010 Research Blvd,1115
+1418,507 Calles St,4960 US Route 290,1028
+1419,507 Calles St,801 Red River St,391
+1420,507 Calles St,12164 N Mopac Expy,1306
+1421,507 Calles St,11601 Domain Dr,1171
+1422,507 Calles St,4024 S Lamar Blvd,964
+1423,507 Calles St,1000 E 41st St,565
+1424,507 Calles St,7211 Burnet Rd,1181
+1425,507 Calles St,900 Austin Highlands Blvd,1080
+1426,1509 S Lamar Blvd,407 Radam Ln,544
+1427,1509 S Lamar Blvd,5701 W Slaughter Ln,867
+1428,1509 S Lamar Blvd,1120 S Lamar Blvd,38
+1429,1509 S Lamar Blvd,2700 W Anderson Ln,976
+1430,1509 S Lamar Blvd,6507 Burnet Road,881
+1431,1509 S Lamar Blvd,3003 S Lamar Blvd,239
+1432,1509 S Lamar Blvd,96 Rainey Street,564
+1433,1509 S Lamar Blvd,321 W Ben White Blvd,527
+1434,1509 S Lamar Blvd,9070 Research Blvd,914
+1435,1509 S Lamar Blvd,10817 Ranch Rd 2222,1530
+1436,1509 S Lamar Blvd,317 E 6th St,611
+1437,1509 S Lamar Blvd,1900 S 1st St,205
+1438,1509 S Lamar Blvd,11680 Research Blvd,1075
+1439,1509 S Lamar Blvd,909 W Mary St,108
+1440,1509 S Lamar Blvd,201 Brazos St,484
+1441,1509 S Lamar Blvd,4477 S Lamar Blvd,551
+1442,1509 S Lamar Blvd,609 Davis St,580
+1443,1509 S Lamar Blvd,5204 Ranch Rd 2222,1057
+1444,1509 S Lamar Blvd,3116 S Congress,416
+1445,1509 S Lamar Blvd,8300 N FM 620,1805
+1446,1509 S Lamar Blvd,1109 South Lamar Blvd,39
+1447,1509 S Lamar Blvd,1400 South Congress Avenue,355
+1448,1509 S Lamar Blvd,2438 W Anderson Ln,990
+1449,1509 S Lamar Blvd,69 Rainey Street,657
+1450,1509 S Lamar Blvd,401 W 2nd St,389
+1451,1509 S Lamar Blvd,5425 Burnet Rd,876
+1452,1509 S Lamar Blvd,520 W 6th St,445
+1453,1509 S Lamar Blvd,6301 Parmer Ln,1489
+1454,1509 S Lamar Blvd,2421 Webberville Rd,861
+1455,1509 S Lamar Blvd,13301 US Highway 183,1230
+1456,1509 S Lamar Blvd,507 Calles St,931
+1457,1509 S Lamar Blvd,3601 South Congress Avenue,462
+1458,1509 S Lamar Blvd,2900 Duval St,868
+1459,1509 S Lamar Blvd,3508 S Lamar Blvd,283
+1460,1509 S Lamar Blvd,12221 Riata Trace Pkwy,1118
+1461,1509 S Lamar Blvd,704 W St. Johns Ave,1156
+1462,1509 S Lamar Blvd,9012 Research Blvd,962
+1463,1509 S Lamar Blvd,9010 Research Blvd,929
+1464,1509 S Lamar Blvd,4960 US Route 290,617
+1465,1509 S Lamar Blvd,801 Red River St,721
+1466,1509 S Lamar Blvd,12164 N Mopac Expy,1221
+1467,1509 S Lamar Blvd,11601 Domain Dr,1086
+1468,1509 S Lamar Blvd,4024 S Lamar Blvd,390
+1469,1509 S Lamar Blvd,1000 E 41st St,852
+1470,1509 S Lamar Blvd,7211 Burnet Rd,978
+1471,1509 S Lamar Blvd,900 Austin Highlands Blvd,852
+1472,3601 South Congress Avenue,407 Radam Ln,161
+1473,3601 South Congress Avenue,5701 W Slaughter Ln,669
+1474,3601 South Congress Avenue,1120 S Lamar Blvd,488
+1475,3601 South Congress Avenue,2700 W Anderson Ln,1110
+1476,3601 South Congress Avenue,6507 Burnet Road,1015
+1477,3601 South Congress Avenue,3003 S Lamar Blvd,385
+1478,3601 South Congress Avenue,96 Rainey Street,659
+1479,3601 South Congress Avenue,321 W Ben White Blvd,195
+1480,3601 South Congress Avenue,9070 Research Blvd,1048
+1481,3601 South Congress Avenue,10817 Ranch Rd 2222,1561
+1482,3601 South Congress Avenue,317 E 6th St,634
+1483,3601 South Congress Avenue,1900 S 1st St,284
+1484,3601 South Congress Avenue,11680 Research Blvd,1209
+1485,3601 South Congress Avenue,909 W Mary St,380
+1486,3601 South Congress Avenue,201 Brazos St,579
+1487,3601 South Congress Avenue,4477 S Lamar Blvd,404
+1488,3601 South Congress Avenue,609 Davis St,675
+1489,3601 South Congress Avenue,5204 Ranch Rd 2222,1155
+1490,3601 South Congress Avenue,3116 S Congress,49
+1491,3601 South Congress Avenue,8300 N FM 620,1836
+1492,3601 South Congress Avenue,1109 South Lamar Blvd,488
+1493,3601 South Congress Avenue,1400 South Congress Avenue,298
+1494,3601 South Congress Avenue,2438 W Anderson Ln,1124
+1495,3601 South Congress Avenue,69 Rainey Street,526
+1496,3601 South Congress Avenue,401 W 2nd St,602
+1497,3601 South Congress Avenue,5425 Burnet Rd,1010
+1498,3601 South Congress Avenue,520 W 6th St,687
+1499,3601 South Congress Avenue,6301 Parmer Ln,1623
+1500,3601 South Congress Avenue,2421 Webberville Rd,743
+1501,3601 South Congress Avenue,13301 US Highway 183,1364
+1502,3601 South Congress Avenue,507 Calles St,813
+1503,3601 South Congress Avenue,1509 S Lamar Blvd,449
+1504,3601 South Congress Avenue,2900 Duval St,841
+1505,3601 South Congress Avenue,3508 S Lamar Blvd,339
+1506,3601 South Congress Avenue,12221 Riata Trace Pkwy,1252
+1507,3601 South Congress Avenue,704 W St. Johns Ave,1043
+1508,3601 South Congress Avenue,9012 Research Blvd,1123
+1509,3601 South Congress Avenue,9010 Research Blvd,1063
+1510,3601 South Congress Avenue,4960 US Route 290,419
+1511,3601 South Congress Avenue,801 Red River St,627
+1512,3601 South Congress Avenue,12164 N Mopac Expy,1355
+1513,3601 South Congress Avenue,11601 Domain Dr,1221
+1514,3601 South Congress Avenue,4024 S Lamar Blvd,355
+1515,3601 South Congress Avenue,1000 E 41st St,739
+1516,3601 South Congress Avenue,7211 Burnet Rd,1112
+1517,3601 South Congress Avenue,900 Austin Highlands Blvd,545
+1518,2900 Duval St,407 Radam Ln,888
+1519,2900 Duval St,5701 W Slaughter Ln,1246
+1520,2900 Duval St,1120 S Lamar Blvd,916
+1521,2900 Duval St,2700 W Anderson Ln,943
+1522,2900 Duval St,6507 Burnet Road,794
+1523,2900 Duval St,3003 S Lamar Blvd,1026
+1524,2900 Duval St,96 Rainey Street,524
+1525,2900 Duval St,321 W Ben White Blvd,835
+1526,2900 Duval St,9070 Research Blvd,858
+1527,2900 Duval St,10817 Ranch Rd 2222,1497
+1528,2900 Duval St,317 E 6th St,603
+1529,2900 Duval St,1900 S 1st St,921
+1530,2900 Duval St,11680 Research Blvd,943
+1531,2900 Duval St,909 W Mary St,986
+1532,2900 Duval St,201 Brazos St,640
+1533,2900 Duval St,4477 S Lamar Blvd,1021
+1534,2900 Duval St,609 Davis St,588
+1535,2900 Duval St,5204 Ranch Rd 2222,1024
+1536,2900 Duval St,3116 S Congress,830
+1537,2900 Duval St,8300 N FM 620,1772
+1538,2900 Duval St,1109 South Lamar Blvd,915
+1539,2900 Duval St,1400 South Congress Avenue,789
+1540,2900 Duval St,2438 W Anderson Ln,908
+1541,2900 Duval St,69 Rainey Street,581
+1542,2900 Duval St,401 W 2nd St,689
+1543,2900 Duval St,5425 Burnet Rd,651
+1544,2900 Duval St,520 W 6th St,626
+1545,2900 Duval St,6301 Parmer Ln,1363
+1546,2900 Duval St,2421 Webberville Rd,615
+1547,2900 Duval St,13301 US Highway 183,1098
+1548,2900 Duval St,507 Calles St,749
+1549,2900 Duval St,1509 S Lamar Blvd,950
+1550,2900 Duval St,3601 South Congress Avenue,848
+1551,2900 Duval St,3508 S Lamar Blvd,980
+1552,2900 Duval St,12221 Riata Trace Pkwy,986
+1553,2900 Duval St,704 W St. Johns Ave,666
+1554,2900 Duval St,9012 Research Blvd,746
+1555,2900 Duval St,9010 Research Blvd,897
+1556,2900 Duval St,4960 US Route 290,1001
+1557,2900 Duval St,801 Red River St,529
+1558,2900 Duval St,12164 N Mopac Expy,1103
+1559,2900 Duval St,11601 Domain Dr,968
+1560,2900 Duval St,4024 S Lamar Blvd,996
+1561,2900 Duval St,1000 E 41st St,363
+1562,2900 Duval St,7211 Burnet Rd,891
+1563,2900 Duval St,900 Austin Highlands Blvd,1112
+1564,3508 S Lamar Blvd,407 Radam Ln,384
+1565,3508 S Lamar Blvd,5701 W Slaughter Ln,584
+1566,3508 S Lamar Blvd,1120 S Lamar Blvd,298
+1567,3508 S Lamar Blvd,2700 W Anderson Ln,1017
+1568,3508 S Lamar Blvd,6507 Burnet Road,922
+1569,3508 S Lamar Blvd,3003 S Lamar Blvd,46
+1570,3508 S Lamar Blvd,96 Rainey Street,824
+1571,3508 S Lamar Blvd,321 W Ben White Blvd,374
+1572,3508 S Lamar Blvd,9070 Research Blvd,955
+1573,3508 S Lamar Blvd,10817 Ranch Rd 2222,1469
+1574,3508 S Lamar Blvd,317 E 6th St,871
+1575,3508 S Lamar Blvd,1900 S 1st St,403
+1576,3508 S Lamar Blvd,11680 Research Blvd,1116
+1577,3508 S Lamar Blvd,909 W Mary St,306
+1578,3508 S Lamar Blvd,201 Brazos St,744
+1579,3508 S Lamar Blvd,4477 S Lamar Blvd,268
+1580,3508 S Lamar Blvd,609 Davis St,840
+1581,3508 S Lamar Blvd,5204 Ranch Rd 2222,1063
+1582,3508 S Lamar Blvd,3116 S Congress,533
+1583,3508 S Lamar Blvd,8300 N FM 620,1744
+1584,3508 S Lamar Blvd,1109 South Lamar Blvd,298
+1585,3508 S Lamar Blvd,1400 South Congress Avenue,553
+1586,3508 S Lamar Blvd,2438 W Anderson Ln,1031
+1587,3508 S Lamar Blvd,69 Rainey Street,692
+1588,3508 S Lamar Blvd,401 W 2nd St,649
+1589,3508 S Lamar Blvd,5425 Burnet Rd,917
+1590,3508 S Lamar Blvd,520 W 6th St,705
+1591,3508 S Lamar Blvd,6301 Parmer Ln,1530
+1592,3508 S Lamar Blvd,2421 Webberville Rd,909
+1593,3508 S Lamar Blvd,13301 US Highway 183,1271
+1594,3508 S Lamar Blvd,507 Calles St,979
+1595,3508 S Lamar Blvd,1509 S Lamar Blvd,260
+1596,3508 S Lamar Blvd,3601 South Congress Avenue,407
+1597,3508 S Lamar Blvd,2900 Duval St,984
+1598,3508 S Lamar Blvd,12221 Riata Trace Pkwy,1159
+1599,3508 S Lamar Blvd,704 W St. Johns Ave,1209
+1600,3508 S Lamar Blvd,9012 Research Blvd,1003
+1601,3508 S Lamar Blvd,9010 Research Blvd,970
+1602,3508 S Lamar Blvd,4960 US Route 290,334
+1603,3508 S Lamar Blvd,801 Red River St,793
+1604,3508 S Lamar Blvd,12164 N Mopac Expy,1262
+1605,3508 S Lamar Blvd,11601 Domain Dr,1128
+1606,3508 S Lamar Blvd,4024 S Lamar Blvd,107
+1607,3508 S Lamar Blvd,1000 E 41st St,905
+1608,3508 S Lamar Blvd,7211 Burnet Rd,1019
+1609,3508 S Lamar Blvd,900 Austin Highlands Blvd,686
+1610,12221 Riata Trace Pkwy,407 Radam Ln,1473
+1611,12221 Riata Trace Pkwy,5701 W Slaughter Ln,1619
+1612,12221 Riata Trace Pkwy,1120 S Lamar Blvd,1311
+1613,12221 Riata Trace Pkwy,2700 W Anderson Ln,867
+1614,12221 Riata Trace Pkwy,6507 Burnet Road,927
+1615,12221 Riata Trace Pkwy,3003 S Lamar Blvd,1478
+1616,12221 Riata Trace Pkwy,96 Rainey Street,1232
+1617,12221 Riata Trace Pkwy,321 W Ben White Blvd,1463
+1618,12221 Riata Trace Pkwy,9070 Research Blvd,564
+1619,12221 Riata Trace Pkwy,10817 Ranch Rd 2222,1235
+1620,12221 Riata Trace Pkwy,317 E 6th St,1255
+1621,12221 Riata Trace Pkwy,1900 S 1st St,1402
+1622,12221 Riata Trace Pkwy,11680 Research Blvd,369
+1623,12221 Riata Trace Pkwy,909 W Mary St,1453
+1624,12221 Riata Trace Pkwy,201 Brazos St,1326
+1625,12221 Riata Trace Pkwy,4477 S Lamar Blvd,1395
+1626,12221 Riata Trace Pkwy,609 Davis St,1296
+1627,12221 Riata Trace Pkwy,5204 Ranch Rd 2222,914
+1628,12221 Riata Trace Pkwy,3116 S Congress,1538
+1629,12221 Riata Trace Pkwy,8300 N FM 620,1035
+1630,12221 Riata Trace Pkwy,1109 South Lamar Blvd,1310
+1631,12221 Riata Trace Pkwy,1400 South Congress Avenue,1452
+1632,12221 Riata Trace Pkwy,2438 W Anderson Ln,817
+1633,12221 Riata Trace Pkwy,69 Rainey Street,1289
+1634,12221 Riata Trace Pkwy,401 W 2nd St,1231
+1635,12221 Riata Trace Pkwy,5425 Burnet Rd,1003
+1636,12221 Riata Trace Pkwy,520 W 6th St,1343
+1637,12221 Riata Trace Pkwy,6301 Parmer Ln,365
+1638,12221 Riata Trace Pkwy,2421 Webberville Rd,1376
+1639,12221 Riata Trace Pkwy,13301 US Highway 183,351
+1640,12221 Riata Trace Pkwy,507 Calles St,1446
+1641,12221 Riata Trace Pkwy,1509 S Lamar Blvd,1345
+1642,12221 Riata Trace Pkwy,3601 South Congress Avenue,1496
+1643,12221 Riata Trace Pkwy,2900 Duval St,1213
+1644,12221 Riata Trace Pkwy,3508 S Lamar Blvd,1432
+1645,12221 Riata Trace Pkwy,704 W St. Johns Ave,804
+1646,12221 Riata Trace Pkwy,9012 Research Blvd,612
+1647,12221 Riata Trace Pkwy,9010 Research Blvd,579
+1648,12221 Riata Trace Pkwy,4960 US Route 290,1374
+1649,12221 Riata Trace Pkwy,801 Red River St,1181
+1650,12221 Riata Trace Pkwy,12164 N Mopac Expy,407
+1651,12221 Riata Trace Pkwy,11601 Domain Dr,675
+1652,12221 Riata Trace Pkwy,4024 S Lamar Blvd,1375
+1653,12221 Riata Trace Pkwy,1000 E 41st St,979
+1654,12221 Riata Trace Pkwy,7211 Burnet Rd,907
+1655,12221 Riata Trace Pkwy,900 Austin Highlands Blvd,1820
+1656,704 W St. Johns Ave,407 Radam Ln,1009
+1657,704 W St. Johns Ave,5701 W Slaughter Ln,1431
+1658,704 W St. Johns Ave,1120 S Lamar Blvd,1098
+1659,704 W St. Johns Ave,2700 W Anderson Ln,448
+1660,704 W St. Johns Ave,6507 Burnet Road,388
+1661,704 W St. Johns Ave,3003 S Lamar Blvd,1147
+1662,704 W St. Johns Ave,96 Rainey Street,645
+1663,704 W St. Johns Ave,321 W Ben White Blvd,956
+1664,704 W St. Johns Ave,9070 Research Blvd,457
+1665,704 W St. Johns Ave,10817 Ranch Rd 2222,1331
+1666,704 W St. Johns Ave,317 E 6th St,668
+1667,704 W St. Johns Ave,1900 S 1st St,1011
+1668,704 W St. Johns Ave,11680 Research Blvd,542
+1669,704 W St. Johns Ave,909 W Mary St,1059
+1670,704 W St. Johns Ave,201 Brazos St,761
+1671,704 W St. Johns Ave,4477 S Lamar Blvd,1166
+1672,704 W St. Johns Ave,609 Davis St,709
+1673,704 W St. Johns Ave,5204 Ranch Rd 2222,858
+1674,704 W St. Johns Ave,3116 S Congress,951
+1675,704 W St. Johns Ave,8300 N FM 620,1381
+1676,704 W St. Johns Ave,1109 South Lamar Blvd,1098
+1677,704 W St. Johns Ave,1400 South Congress Avenue,909
+1678,704 W St. Johns Ave,2438 W Anderson Ln,408
+1679,704 W St. Johns Ave,69 Rainey Street,702
+1680,704 W St. Johns Ave,401 W 2nd St,873
+1681,704 W St. Johns Ave,5425 Burnet Rd,420
+1682,704 W St. Johns Ave,520 W 6th St,818
+1683,704 W St. Johns Ave,6301 Parmer Ln,962
+1684,704 W St. Johns Ave,2421 Webberville Rd,789
+1685,704 W St. Johns Ave,13301 US Highway 183,697
+1686,704 W St. Johns Ave,507 Calles St,859
+1687,704 W St. Johns Ave,1509 S Lamar Blvd,1133
+1688,704 W St. Johns Ave,3601 South Congress Avenue,969
+1689,704 W St. Johns Ave,2900 Duval St,626
+1690,704 W St. Johns Ave,3508 S Lamar Blvd,1101
+1691,704 W St. Johns Ave,12221 Riata Trace Pkwy,585
+1692,704 W St. Johns Ave,9012 Research Blvd,345
+1693,704 W St. Johns Ave,9010 Research Blvd,511
+1694,704 W St. Johns Ave,4960 US Route 290,1181
+1695,704 W St. Johns Ave,801 Red River St,594
+1696,704 W St. Johns Ave,12164 N Mopac Expy,702
+1697,704 W St. Johns Ave,11601 Domain Dr,567
+1698,704 W St. Johns Ave,4024 S Lamar Blvd,1117
+1699,704 W St. Johns Ave,1000 E 41st St,392
+1700,704 W St. Johns Ave,7211 Burnet Rd,385
+1701,704 W St. Johns Ave,900 Austin Highlands Blvd,1232
+1702,9012 Research Blvd,407 Radam Ln,1059
+1703,9012 Research Blvd,5701 W Slaughter Ln,1315
+1704,9012 Research Blvd,1120 S Lamar Blvd,1007
+1705,9012 Research Blvd,2700 W Anderson Ln,425
+1706,9012 Research Blvd,6507 Burnet Road,485
+1707,9012 Research Blvd,3003 S Lamar Blvd,1173
+1708,9012 Research Blvd,96 Rainey Street,695
+1709,9012 Research Blvd,321 W Ben White Blvd,1006
+1710,9012 Research Blvd,9070 Research Blvd,311
+1711,9012 Research Blvd,10817 Ranch Rd 2222,1074
+1712,9012 Research Blvd,317 E 6th St,718
+1713,9012 Research Blvd,1900 S 1st St,1061
+1714,9012 Research Blvd,11680 Research Blvd,397
+1715,9012 Research Blvd,909 W Mary St,1109
+1716,9012 Research Blvd,201 Brazos St,811
+1717,9012 Research Blvd,4477 S Lamar Blvd,1090
+1718,9012 Research Blvd,609 Davis St,759
+1719,9012 Research Blvd,5204 Ranch Rd 2222,762
+1720,9012 Research Blvd,3116 S Congress,1001
+1721,9012 Research Blvd,8300 N FM 620,1236
+1722,9012 Research Blvd,1109 South Lamar Blvd,1006
+1723,9012 Research Blvd,1400 South Congress Avenue,960
+1724,9012 Research Blvd,2438 W Anderson Ln,374
+1725,9012 Research Blvd,69 Rainey Street,752
+1726,9012 Research Blvd,401 W 2nd St,924
+1727,9012 Research Blvd,5425 Burnet Rd,610
+1728,9012 Research Blvd,520 W 6th St,868
+1729,9012 Research Blvd,6301 Parmer Ln,817
+1730,9012 Research Blvd,2421 Webberville Rd,839
+1731,9012 Research Blvd,13301 US Highway 183,552
+1732,9012 Research Blvd,507 Calles St,909
+1733,9012 Research Blvd,1509 S Lamar Blvd,1041
+1734,9012 Research Blvd,3601 South Congress Avenue,1019
+1735,9012 Research Blvd,2900 Duval St,676
+1736,9012 Research Blvd,3508 S Lamar Blvd,1127
+1737,9012 Research Blvd,12221 Riata Trace Pkwy,440
+1738,9012 Research Blvd,704 W St. Johns Ave,267
+1739,9012 Research Blvd,9010 Research Blvd,366
+1740,9012 Research Blvd,4960 US Route 290,1070
+1741,9012 Research Blvd,801 Red River St,644
+1742,9012 Research Blvd,12164 N Mopac Expy,557
+1743,9012 Research Blvd,11601 Domain Dr,422
+1744,9012 Research Blvd,4024 S Lamar Blvd,1070
+1745,9012 Research Blvd,1000 E 41st St,442
+1746,9012 Research Blvd,7211 Burnet Rd,465
+1747,9012 Research Blvd,900 Austin Highlands Blvd,1283
+1748,9010 Research Blvd,407 Radam Ln,1092
+1749,9010 Research Blvd,5701 W Slaughter Ln,1220
+1750,9010 Research Blvd,1120 S Lamar Blvd,912
+1751,9010 Research Blvd,2700 W Anderson Ln,288
+1752,9010 Research Blvd,6507 Burnet Road,348
+1753,9010 Research Blvd,3003 S Lamar Blvd,1078
+1754,9010 Research Blvd,96 Rainey Street,728
+1755,9010 Research Blvd,321 W Ben White Blvd,1039
+1756,9010 Research Blvd,9070 Research Blvd,102
+1757,9010 Research Blvd,10817 Ranch Rd 2222,991
+1758,9010 Research Blvd,317 E 6th St,751
+1759,9010 Research Blvd,1900 S 1st St,1003
+1760,9010 Research Blvd,11680 Research Blvd,314
+1761,9010 Research Blvd,909 W Mary St,1054
+1762,9010 Research Blvd,201 Brazos St,844
+1763,9010 Research Blvd,4477 S Lamar Blvd,995
+1764,9010 Research Blvd,609 Davis St,792
+1765,9010 Research Blvd,5204 Ranch Rd 2222,667
+1766,9010 Research Blvd,3116 S Congress,1034
+1767,9010 Research Blvd,8300 N FM 620,1153
+1768,9010 Research Blvd,1109 South Lamar Blvd,911
+1769,9010 Research Blvd,1400 South Congress Avenue,993
+1770,9010 Research Blvd,2438 W Anderson Ln,238
+1771,9010 Research Blvd,69 Rainey Street,785
+1772,9010 Research Blvd,401 W 2nd St,832
+1773,9010 Research Blvd,5425 Burnet Rd,473
+1774,9010 Research Blvd,520 W 6th St,901
+1775,9010 Research Blvd,6301 Parmer Ln,730
+1776,9010 Research Blvd,2421 Webberville Rd,872
+1777,9010 Research Blvd,13301 US Highway 183,469
+1778,9010 Research Blvd,507 Calles St,942
+1779,9010 Research Blvd,1509 S Lamar Blvd,946
+1780,9010 Research Blvd,3601 South Congress Avenue,1052
+1781,9010 Research Blvd,2900 Duval St,709
+1782,9010 Research Blvd,3508 S Lamar Blvd,1032
+1783,9010 Research Blvd,12221 Riata Trace Pkwy,357
+1784,9010 Research Blvd,704 W St. Johns Ave,300
+1785,9010 Research Blvd,9012 Research Blvd,33
+1786,9010 Research Blvd,4960 US Route 290,975
+1787,9010 Research Blvd,801 Red River St,677
+1788,9010 Research Blvd,12164 N Mopac Expy,462
+1789,9010 Research Blvd,11601 Domain Dr,328
+1790,9010 Research Blvd,4024 S Lamar Blvd,975
+1791,9010 Research Blvd,1000 E 41st St,475
+1792,9010 Research Blvd,7211 Burnet Rd,328
+1793,9010 Research Blvd,900 Austin Highlands Blvd,1316
+1794,4960 US Route 290,407 Radam Ln,486
+1795,4960 US Route 290,5701 W Slaughter Ln,516
+1796,4960 US Route 290,1120 S Lamar Blvd,693
+1797,4960 US Route 290,2700 W Anderson Ln,1049
+1798,4960 US Route 290,6507 Burnet Road,954
+1799,4960 US Route 290,3003 S Lamar Blvd,441
+1800,4960 US Route 290,96 Rainey Street,854
+1801,4960 US Route 290,321 W Ben White Blvd,476
+1802,4960 US Route 290,9070 Research Blvd,988
+1803,4960 US Route 290,10817 Ranch Rd 2222,1603
+1804,4960 US Route 290,317 E 6th St,902
+1805,4960 US Route 290,1900 S 1st St,676
+1806,4960 US Route 290,11680 Research Blvd,1149
+1807,4960 US Route 290,909 W Mary St,702
+1808,4960 US Route 290,201 Brazos St,774
+1809,4960 US Route 290,4477 S Lamar Blvd,380
+1810,4960 US Route 290,609 Davis St,870
+1811,4960 US Route 290,5204 Ranch Rd 2222,1130
+1812,4960 US Route 290,3116 S Congress,558
+1813,4960 US Route 290,8300 N FM 620,1878
+1814,4960 US Route 290,1109 South Lamar Blvd,694
+1815,4960 US Route 290,1400 South Congress Avenue,807
+1816,4960 US Route 290,2438 W Anderson Ln,1063
+1817,4960 US Route 290,69 Rainey Street,794
+1818,4960 US Route 290,401 W 2nd St,679
+1819,4960 US Route 290,5425 Burnet Rd,949
+1820,4960 US Route 290,520 W 6th St,810
+1821,4960 US Route 290,6301 Parmer Ln,1562
+1822,4960 US Route 290,2421 Webberville Rd,1011
+1823,4960 US Route 290,13301 US Highway 183,1304
+1824,4960 US Route 290,507 Calles St,1081
+1825,4960 US Route 290,1509 S Lamar Blvd,655
+1826,4960 US Route 290,3601 South Congress Avenue,509
+1827,4960 US Route 290,2900 Duval St,1016
+1828,4960 US Route 290,3508 S Lamar Blvd,395
+1829,4960 US Route 290,12221 Riata Trace Pkwy,1192
+1830,4960 US Route 290,704 W St. Johns Ave,1283
+1831,4960 US Route 290,9012 Research Blvd,1036
+1832,4960 US Route 290,9010 Research Blvd,1003
+1833,4960 US Route 290,801 Red River St,895
+1834,4960 US Route 290,12164 N Mopac Expy,1294
+1835,4960 US Route 290,11601 Domain Dr,1160
+1836,4960 US Route 290,4024 S Lamar Blvd,402
+1837,4960 US Route 290,1000 E 41st St,1007
+1838,4960 US Route 290,7211 Burnet Rd,1051
+1839,4960 US Route 290,900 Austin Highlands Blvd,794
+1840,801 Red River St,407 Radam Ln,625
+1841,801 Red River St,5701 W Slaughter Ln,1047
+1842,801 Red River St,1120 S Lamar Blvd,639
+1843,801 Red River St,2700 W Anderson Ln,969
+1844,801 Red River St,6507 Burnet Road,954
+1845,801 Red River St,3003 S Lamar Blvd,763
+1846,801 Red River St,96 Rainey Street,296
+1847,801 Red River St,321 W Ben White Blvd,572
+1848,801 Red River St,9070 Research Blvd,880
+1849,801 Red River St,10817 Ranch Rd 2222,1603
+1850,801 Red River St,317 E 6th St,153
+1851,801 Red River St,1900 S 1st St,578
+1852,801 Red River St,11680 Research Blvd,965
+1853,801 Red River St,909 W Mary St,643
+1854,801 Red River St,201 Brazos St,302
+1855,801 Red River St,4477 S Lamar Blvd,782
+1856,801 Red River St,609 Davis St,342
+1857,801 Red River St,5204 Ranch Rd 2222,1130
+1858,801 Red River St,3116 S Congress,568
+1859,801 Red River St,8300 N FM 620,1804
+1860,801 Red River St,1109 South Lamar Blvd,638
+1861,801 Red River St,1400 South Congress Avenue,518
+1862,801 Red River St,2438 W Anderson Ln,930
+1863,801 Red River St,69 Rainey Street,353
+1864,801 Red River St,401 W 2nd St,346
+1865,801 Red River St,5425 Burnet Rd,938
+1866,801 Red River St,520 W 6th St,269
+1867,801 Red River St,6301 Parmer Ln,1385
+1868,801 Red River St,2421 Webberville Rd,337
+1869,801 Red River St,13301 US Highway 183,1120
+1870,801 Red River St,507 Calles St,407
+1871,801 Red River St,1509 S Lamar Blvd,673
+1872,801 Red River St,3601 South Congress Avenue,586
+1873,801 Red River St,2900 Duval St,486
+1874,801 Red River St,3508 S Lamar Blvd,717
+1875,801 Red River St,12221 Riata Trace Pkwy,1008
+1876,801 Red River St,704 W St. Johns Ave,688
+1877,801 Red River St,9012 Research Blvd,768
+1878,801 Red River St,9010 Research Blvd,934
+1879,801 Red River St,4960 US Route 290,797
+1880,801 Red River St,12164 N Mopac Expy,1125
+1881,801 Red River St,11601 Domain Dr,990
+1882,801 Red River St,4024 S Lamar Blvd,733
+1883,801 Red River St,1000 E 41st St,384
+1884,801 Red River St,7211 Burnet Rd,1000
+1885,801 Red River St,900 Austin Highlands Blvd,849
+1886,12164 N Mopac Expy,407 Radam Ln,1250
+1887,12164 N Mopac Expy,5701 W Slaughter Ln,1396
+1888,12164 N Mopac Expy,1120 S Lamar Blvd,1088
+1889,12164 N Mopac Expy,2700 W Anderson Ln,654
+1890,12164 N Mopac Expy,6507 Burnet Road,716
+1891,12164 N Mopac Expy,3003 S Lamar Blvd,1255
+1892,12164 N Mopac Expy,96 Rainey Street,1029
+1893,12164 N Mopac Expy,321 W Ben White Blvd,1240
+1894,12164 N Mopac Expy,9070 Research Blvd,353
+1895,12164 N Mopac Expy,10817 Ranch Rd 2222,1155
+1896,12164 N Mopac Expy,317 E 6th St,1052
+1897,12164 N Mopac Expy,1900 S 1st St,1179
+1898,12164 N Mopac Expy,11680 Research Blvd,388
+1899,12164 N Mopac Expy,909 W Mary St,1230
+1900,12164 N Mopac Expy,201 Brazos St,1103
+1901,12164 N Mopac Expy,4477 S Lamar Blvd,1172
+1902,12164 N Mopac Expy,609 Davis St,1093
+1903,12164 N Mopac Expy,5204 Ranch Rd 2222,843
+1904,12164 N Mopac Expy,3116 S Congress,1322
+1905,12164 N Mopac Expy,8300 N FM 620,1207
+1906,12164 N Mopac Expy,1109 South Lamar Blvd,1087
+1907,12164 N Mopac Expy,1400 South Congress Avenue,1229
+1908,12164 N Mopac Expy,2438 W Anderson Ln,606
+1909,12164 N Mopac Expy,69 Rainey Street,1086
+1910,12164 N Mopac Expy,401 W 2nd St,1008
+1911,12164 N Mopac Expy,5425 Burnet Rd,780
+1912,12164 N Mopac Expy,520 W 6th St,1120
+1913,12164 N Mopac Expy,6301 Parmer Ln,530
+1914,12164 N Mopac Expy,2421 Webberville Rd,1173
+1915,12164 N Mopac Expy,13301 US Highway 183,576
+1916,12164 N Mopac Expy,507 Calles St,1243
+1917,12164 N Mopac Expy,1509 S Lamar Blvd,1122
+1918,12164 N Mopac Expy,3601 South Congress Avenue,1273
+1919,12164 N Mopac Expy,2900 Duval St,1010
+1920,12164 N Mopac Expy,3508 S Lamar Blvd,1209
+1921,12164 N Mopac Expy,12221 Riata Trace Pkwy,448
+1922,12164 N Mopac Expy,704 W St. Johns Ave,601
+1923,12164 N Mopac Expy,9012 Research Blvd,401
+1924,12164 N Mopac Expy,9010 Research Blvd,368
+1925,12164 N Mopac Expy,4960 US Route 290,1151
+1926,12164 N Mopac Expy,801 Red River St,978
+1927,12164 N Mopac Expy,11601 Domain Dr,309
+1928,12164 N Mopac Expy,4024 S Lamar Blvd,1152
+1929,12164 N Mopac Expy,1000 E 41st St,776
+1930,12164 N Mopac Expy,7211 Burnet Rd,696
+1931,12164 N Mopac Expy,900 Austin Highlands Blvd,1558
+1932,11601 Domain Dr,407 Radam Ln,1283
+1933,11601 Domain Dr,5701 W Slaughter Ln,1429
+1934,11601 Domain Dr,1120 S Lamar Blvd,1121
+1935,11601 Domain Dr,2700 W Anderson Ln,725
+1936,11601 Domain Dr,6507 Burnet Road,784
+1937,11601 Domain Dr,3003 S Lamar Blvd,1288
+1938,11601 Domain Dr,96 Rainey Street,1062
+1939,11601 Domain Dr,321 W Ben White Blvd,1273
+1940,11601 Domain Dr,9070 Research Blvd,386
+1941,11601 Domain Dr,10817 Ranch Rd 2222,1188
+1942,11601 Domain Dr,317 E 6th St,1085
+1943,11601 Domain Dr,1900 S 1st St,1212
+1944,11601 Domain Dr,11680 Research Blvd,474
+1945,11601 Domain Dr,909 W Mary St,1263
+1946,11601 Domain Dr,201 Brazos St,1136
+1947,11601 Domain Dr,4477 S Lamar Blvd,1205
+1948,11601 Domain Dr,609 Davis St,1126
+1949,11601 Domain Dr,5204 Ranch Rd 2222,876
+1950,11601 Domain Dr,3116 S Congress,1355
+1951,11601 Domain Dr,8300 N FM 620,1266
+1952,11601 Domain Dr,1109 South Lamar Blvd,1120
+1953,11601 Domain Dr,1400 South Congress Avenue,1262
+1954,11601 Domain Dr,2438 W Anderson Ln,674
+1955,11601 Domain Dr,69 Rainey Street,1119
+1956,11601 Domain Dr,401 W 2nd St,1041
+1957,11601 Domain Dr,5425 Burnet Rd,813
+1958,11601 Domain Dr,520 W 6th St,1153
+1959,11601 Domain Dr,6301 Parmer Ln,613
+1960,11601 Domain Dr,2421 Webberville Rd,1206
+1961,11601 Domain Dr,13301 US Highway 183,663
+1962,11601 Domain Dr,507 Calles St,1276
+1963,11601 Domain Dr,1509 S Lamar Blvd,1155
+1964,11601 Domain Dr,3601 South Congress Avenue,1306
+1965,11601 Domain Dr,2900 Duval St,1043
+1966,11601 Domain Dr,3508 S Lamar Blvd,1242
+1967,11601 Domain Dr,12221 Riata Trace Pkwy,535
+1968,11601 Domain Dr,704 W St. Johns Ave,634
+1969,11601 Domain Dr,9012 Research Blvd,468
+1970,11601 Domain Dr,9010 Research Blvd,401
+1971,11601 Domain Dr,4960 US Route 290,1184
+1972,11601 Domain Dr,801 Red River St,1011
+1973,11601 Domain Dr,12164 N Mopac Expy,345
+1974,11601 Domain Dr,4024 S Lamar Blvd,1185
+1975,11601 Domain Dr,1000 E 41st St,809
+1976,11601 Domain Dr,7211 Burnet Rd,765
+1977,11601 Domain Dr,900 Austin Highlands Blvd,1591
+1978,4024 S Lamar Blvd,407 Radam Ln,386
+1979,4024 S Lamar Blvd,5701 W Slaughter Ln,588
+1980,4024 S Lamar Blvd,1120 S Lamar Blvd,440
+1981,4024 S Lamar Blvd,2700 W Anderson Ln,978
+1982,4024 S Lamar Blvd,6507 Burnet Road,883
+1983,4024 S Lamar Blvd,3003 S Lamar Blvd,187
+1984,4024 S Lamar Blvd,96 Rainey Street,757
+1985,4024 S Lamar Blvd,321 W Ben White Blvd,376
+1986,4024 S Lamar Blvd,9070 Research Blvd,916
+1987,4024 S Lamar Blvd,10817 Ranch Rd 2222,1430
+1988,4024 S Lamar Blvd,317 E 6th St,802
+1989,4024 S Lamar Blvd,1900 S 1st St,545
+1990,4024 S Lamar Blvd,11680 Research Blvd,1077
+1991,4024 S Lamar Blvd,909 W Mary St,448
+1992,4024 S Lamar Blvd,201 Brazos St,703
+1993,4024 S Lamar Blvd,4477 S Lamar Blvd,229
+1994,4024 S Lamar Blvd,609 Davis St,799
+1995,4024 S Lamar Blvd,5204 Ranch Rd 2222,1024
+1996,4024 S Lamar Blvd,3116 S Congress,458
+1997,4024 S Lamar Blvd,8300 N FM 620,1705
+1998,4024 S Lamar Blvd,1109 South Lamar Blvd,440
+1999,4024 S Lamar Blvd,1400 South Congress Avenue,695
+2000,4024 S Lamar Blvd,2438 W Anderson Ln,992
+2001,4024 S Lamar Blvd,69 Rainey Street,694
+2002,4024 S Lamar Blvd,401 W 2nd St,608
+2003,4024 S Lamar Blvd,5425 Burnet Rd,878
+2004,4024 S Lamar Blvd,520 W 6th St,739
+2005,4024 S Lamar Blvd,6301 Parmer Ln,1491
+2006,4024 S Lamar Blvd,2421 Webberville Rd,911
+2007,4024 S Lamar Blvd,13301 US Highway 183,1232
+2008,4024 S Lamar Blvd,507 Calles St,981
+2009,4024 S Lamar Blvd,1509 S Lamar Blvd,402
+2010,4024 S Lamar Blvd,3601 South Congress Avenue,409
+2011,4024 S Lamar Blvd,2900 Duval St,945
+2012,4024 S Lamar Blvd,3508 S Lamar Blvd,142
+2013,4024 S Lamar Blvd,12221 Riata Trace Pkwy,1120
+2014,4024 S Lamar Blvd,704 W St. Johns Ave,1212
+2015,4024 S Lamar Blvd,9012 Research Blvd,964
+2016,4024 S Lamar Blvd,9010 Research Blvd,931
+2017,4024 S Lamar Blvd,4960 US Route 290,338
+2018,4024 S Lamar Blvd,801 Red River St,795
+2019,4024 S Lamar Blvd,12164 N Mopac Expy,1223
+2020,4024 S Lamar Blvd,11601 Domain Dr,1089
+2021,4024 S Lamar Blvd,1000 E 41st St,907
+2022,4024 S Lamar Blvd,7211 Burnet Rd,980
+2023,4024 S Lamar Blvd,900 Austin Highlands Blvd,673
+2024,1000 E 41st St,407 Radam Ln,786
+2025,1000 E 41st St,5701 W Slaughter Ln,1208
+2026,1000 E 41st St,1120 S Lamar Blvd,876
+2027,1000 E 41st St,2700 W Anderson Ln,825
+2028,1000 E 41st St,6507 Burnet Road,714
+2029,1000 E 41st St,3003 S Lamar Blvd,924
+2030,1000 E 41st St,96 Rainey Street,422
+2031,1000 E 41st St,321 W Ben White Blvd,733
+2032,1000 E 41st St,9070 Research Blvd,736
+2033,1000 E 41st St,10817 Ranch Rd 2222,1554
+2034,1000 E 41st St,317 E 6th St,445
+2035,1000 E 41st St,1900 S 1st St,788
+2036,1000 E 41st St,11680 Research Blvd,821
+2037,1000 E 41st St,909 W Mary St,836
+2038,1000 E 41st St,201 Brazos St,538
+2039,1000 E 41st St,4477 S Lamar Blvd,943
+2040,1000 E 41st St,609 Davis St,486
+2041,1000 E 41st St,5204 Ranch Rd 2222,1082
+2042,1000 E 41st St,3116 S Congress,728
+2043,1000 E 41st St,8300 N FM 620,1660
+2044,1000 E 41st St,1109 South Lamar Blvd,876
+2045,1000 E 41st St,1400 South Congress Avenue,687
+2046,1000 E 41st St,2438 W Anderson Ln,786
+2047,1000 E 41st St,69 Rainey Street,479
+2048,1000 E 41st St,401 W 2nd St,662
+2049,1000 E 41st St,5425 Burnet Rd,571
+2050,1000 E 41st St,520 W 6th St,595
+2051,1000 E 41st St,6301 Parmer Ln,1241
+2052,1000 E 41st St,2421 Webberville Rd,566
+2053,1000 E 41st St,13301 US Highway 183,976
+2054,1000 E 41st St,507 Calles St,636
+2055,1000 E 41st St,1509 S Lamar Blvd,911
+2056,1000 E 41st St,3601 South Congress Avenue,746
+2057,1000 E 41st St,2900 Duval St,290
+2058,1000 E 41st St,3508 S Lamar Blvd,878
+2059,1000 E 41st St,12221 Riata Trace Pkwy,864
+2060,1000 E 41st St,704 W St. Johns Ave,599
+2061,1000 E 41st St,9012 Research Blvd,624
+2062,1000 E 41st St,9010 Research Blvd,790
+2063,1000 E 41st St,4960 US Route 290,958
+2064,1000 E 41st St,801 Red River St,371
+2065,1000 E 41st St,12164 N Mopac Expy,981
+2066,1000 E 41st St,11601 Domain Dr,846
+2067,1000 E 41st St,4024 S Lamar Blvd,894
+2068,1000 E 41st St,7211 Burnet Rd,811
+2069,1000 E 41st St,900 Austin Highlands Blvd,1010
+2070,7211 Burnet Rd,407 Radam Ln,1156
+2071,7211 Burnet Rd,5701 W Slaughter Ln,1302
+2072,7211 Burnet Rd,1120 S Lamar Blvd,994
+2073,7211 Burnet Rd,2700 W Anderson Ln,294
+2074,7211 Burnet Rd,6507 Burnet Road,141
+2075,7211 Burnet Rd,3003 S Lamar Blvd,1161
+2076,7211 Burnet Rd,96 Rainey Street,988
+2077,7211 Burnet Rd,321 W Ben White Blvd,1146
+2078,7211 Burnet Rd,9070 Research Blvd,423
+2079,7211 Burnet Rd,10817 Ranch Rd 2222,1148
+2080,7211 Burnet Rd,317 E 6th St,1011
+2081,7211 Burnet Rd,1900 S 1st St,1085
+2082,7211 Burnet Rd,11680 Research Blvd,660
+2083,7211 Burnet Rd,909 W Mary St,1136
+2084,7211 Burnet Rd,201 Brazos St,1009
+2085,7211 Burnet Rd,4477 S Lamar Blvd,1078
+2086,7211 Burnet Rd,609 Davis St,1052
+2087,7211 Burnet Rd,5204 Ranch Rd 2222,675
+2088,7211 Burnet Rd,3116 S Congress,1228
+2089,7211 Burnet Rd,8300 N FM 620,1423
+2090,7211 Burnet Rd,1109 South Lamar Blvd,993
+2091,7211 Burnet Rd,1400 South Congress Avenue,1135
+2092,7211 Burnet Rd,2438 W Anderson Ln,259
+2093,7211 Burnet Rd,69 Rainey Street,1045
+2094,7211 Burnet Rd,401 W 2nd St,914
+2095,7211 Burnet Rd,5425 Burnet Rd,266
+2096,7211 Burnet Rd,520 W 6th St,1026
+2097,7211 Burnet Rd,6301 Parmer Ln,1076
+2098,7211 Burnet Rd,2421 Webberville Rd,1132
+2099,7211 Burnet Rd,13301 US Highway 183,815
+2100,7211 Burnet Rd,507 Calles St,1202
+2101,7211 Burnet Rd,1509 S Lamar Blvd,1028
+2102,7211 Burnet Rd,3601 South Congress Avenue,1179
+2103,7211 Burnet Rd,2900 Duval St,906
+2104,7211 Burnet Rd,3508 S Lamar Blvd,1115
+2105,7211 Burnet Rd,12221 Riata Trace Pkwy,703
+2106,7211 Burnet Rd,704 W St. Johns Ave,441
+2107,7211 Burnet Rd,9012 Research Blvd,364
+2108,7211 Burnet Rd,9010 Research Blvd,471
+2109,7211 Burnet Rd,4960 US Route 290,1057
+2110,7211 Burnet Rd,801 Red River St,937
+2111,7211 Burnet Rd,12164 N Mopac Expy,808
+2112,7211 Burnet Rd,11601 Domain Dr,674
+2113,7211 Burnet Rd,4024 S Lamar Blvd,1058
+2114,7211 Burnet Rd,1000 E 41st St,735
+2115,7211 Burnet Rd,900 Austin Highlands Blvd,1464
+2116,900 Austin Highlands Blvd,407 Radam Ln,395
+2117,900 Austin Highlands Blvd,5701 W Slaughter Ln,834
+2118,900 Austin Highlands Blvd,1120 S Lamar Blvd,863
+2119,900 Austin Highlands Blvd,2700 W Anderson Ln,1471
+2120,900 Austin Highlands Blvd,6507 Burnet Road,1376
+2121,900 Austin Highlands Blvd,3003 S Lamar Blvd,685
+2122,900 Austin Highlands Blvd,96 Rainey Street,933
+2123,900 Austin Highlands Blvd,321 W Ben White Blvd,468
+2124,900 Austin Highlands Blvd,9070 Research Blvd,1410
+2125,900 Austin Highlands Blvd,10817 Ranch Rd 2222,1901
+2126,900 Austin Highlands Blvd,317 E 6th St,977
+2127,900 Austin Highlands Blvd,1900 S 1st St,670
+2128,900 Austin Highlands Blvd,11680 Research Blvd,1571
+2129,900 Austin Highlands Blvd,909 W Mary St,752
+2130,900 Austin Highlands Blvd,201 Brazos St,1033
+2131,900 Austin Highlands Blvd,4477 S Lamar Blvd,580
+2132,900 Austin Highlands Blvd,609 Davis St,990
+2133,900 Austin Highlands Blvd,5204 Ranch Rd 2222,1495
+2134,900 Austin Highlands Blvd,3116 S Congress,606
+2135,900 Austin Highlands Blvd,8300 N FM 620,2176
+2136,900 Austin Highlands Blvd,1109 South Lamar Blvd,863
+2137,900 Austin Highlands Blvd,1400 South Congress Avenue,831
+2138,900 Austin Highlands Blvd,2438 W Anderson Ln,1485
+2139,900 Austin Highlands Blvd,69 Rainey Street,869
+2140,900 Austin Highlands Blvd,401 W 2nd St,987
+2141,900 Austin Highlands Blvd,5425 Burnet Rd,1371
+2142,900 Austin Highlands Blvd,520 W 6th St,1072
+2143,900 Austin Highlands Blvd,6301 Parmer Ln,1984
+2144,900 Austin Highlands Blvd,2421 Webberville Rd,1086
+2145,900 Austin Highlands Blvd,13301 US Highway 183,1726
+2146,900 Austin Highlands Blvd,507 Calles St,1156
+2147,900 Austin Highlands Blvd,1509 S Lamar Blvd,824
+2148,900 Austin Highlands Blvd,3601 South Congress Avenue,557
+2149,900 Austin Highlands Blvd,2900 Duval St,1185
+2150,900 Austin Highlands Blvd,3508 S Lamar Blvd,681
+2151,900 Austin Highlands Blvd,12221 Riata Trace Pkwy,1614
+2152,900 Austin Highlands Blvd,704 W St. Johns Ave,1387
+2153,900 Austin Highlands Blvd,9012 Research Blvd,1458
+2154,900 Austin Highlands Blvd,9010 Research Blvd,1425
+2155,900 Austin Highlands Blvd,4960 US Route 290,759
+2156,900 Austin Highlands Blvd,801 Red River St,970
+2157,900 Austin Highlands Blvd,12164 N Mopac Expy,1716
+2158,900 Austin Highlands Blvd,11601 Domain Dr,1582
+2159,900 Austin Highlands Blvd,4024 S Lamar Blvd,714
+2160,900 Austin Highlands Blvd,1000 E 41st St,1083
+2161,900 Austin Highlands Blvd,7211 Burnet Rd,1473
